@@ -14,15 +14,15 @@ pi: [toc, sortrefs, symrefs]
 
 author:
   -
-    ins: J. Livingood
-    name: Jason Livingood
-    organization: Comcast
-    email: Jason_Livingood@comcast.com
-  -
     ins: J. Hall
     name: Joseph Lorenzo Hall
     organization: CDT
     email: joe@cdt.org
+  -
+    ins: J. Livingood
+    name: Jason Livingood
+    organization: Comcast
+    email: Jason_Livingood@comcast.com
 
 informative:
   ML-memo:
@@ -48,7 +48,7 @@ The purpose of this document is to spur discussion by outlining some details of 
 
 In brief, the proposal in this document is to transfer most of the responsibilities that RFC 4071 currently assigns to the IAD and ISOC to the newly created IETFAdminOrg. The IAOC would be eliminated, and its oversight and advising functions transferred to the IETFAdminOrg board and a new IETF Administrative Advisory Council ("the AC"), respectively. It would be the job of IETFAdminOrg to meet the administrative needs of the IETF. It would be the job of the AC to provide any advice that the IETFAdminOrg needs from an IETF community perspective. And it would be the job of the IETFAdminOrg board to ensure that IETFAdminOrg is meeting the needs of the IETF community.
 
-[[ TODO: Eliminating the IAOC means that there will need to be another way for trustees to be appointed for the IETF Trust ]]
+(TODO: Eliminating the IAOC means that there will need to be another way for trustees to be appointed for the IETF Trust)
 
 The document does not propose any changes to anything related to the oversight or steering of the standards process as currently conducted by the IESG and IAB, the appeal chain, the confirming bodies for existing IETF and IAB appointments, or the IRTF.
 
@@ -131,7 +131,7 @@ Finally, the board would be expected to operate transparently, to further addres
 
 Note also that the board formation rules of IETFAdminOrg would be defined in its corporate documents, e.g., its articles of incorporation and bylaws.
 
-[[ TODO: On a small board, board member term lengths and appointment cycles would need some careful thought to ensure some continuity on the board and to account for external term limits and appointment cycles of the IETF Chair and the ISOC trustees. ]]
+(TODO: On a small board, board member term lengths and appointment cycles would need some careful thought to ensure some continuity on the board and to account for external term limits and appointment cycles of the IETF Chair and the ISOC trustees.)
 
 ## Staffing
 
@@ -149,7 +149,7 @@ The IETF has a long history of community involvement in the execution of certain
 
 The AC is proposed to advise the staff of IETFAdminOrg about how their work can best support the IETF. If the staff and contractors find it desirable, the AC may also advise the contractors.
 
-The AC is conceptualized as a body of IETF community members who can serve as a sounding board in situations where the IETFAdminOrg staff or contractors need to gauge community opinion or have questions about how administrative decisions might be viewed by the IETF community. For major administrative decisions, the IETFAdminOrg could be required to consult with the AC to gauge community opinion prior to deciding. Major administrative decisions might include the selection of a meeting venue or the award of a contract in excess of a certain fraction of the annual IETF budget. 
+The AC is conceptualized as a body of IETF community members who can serve as a sounding board in situations where the IETFAdminOrg staff or contractors need to gauge community opinion or have questions about how administrative decisions might be viewed by the IETF community. For major administrative decisions, the IETFAdminOrg could be required to consult with the AC to gauge community opinion prior to deciding. Major administrative decisions might include the selection of a meeting venue or the award of a contract in excess of a certain fraction of the annual IETF budget.
 
 The AC would not have decisional authority, but the process for the IETFAdminOrg to engage the AC would be documented, and the IETFAdminOrg would be expected to inform the community about how AC input was incorporated into its decision-making.  A requirement to provide this kind of information could be included in the IETFAdminOrg bylaws. The oversight responsibilities of the IETFAdminOrg board would include ensuring that the IETFAdminOrg was complying with documented processes, and generally maintaining an appropriate level of engagement with the AC and the broader community.
 
@@ -157,7 +157,7 @@ For other more minor administrative decisions, there would be no requirement tha
 
 The virtue of the AC would be that for matters where the staff feels confident that they understand the community's desires and direction, they could execute their tasks without additional delays or approvals. For matters where they are unsure, they could seek opinions from the AC before proceeding. And for major decisions there would be a well-defined process for the IETFAdminOrg to understand a community perspective. The AC could also provide advice about situations where bringing a proposal or decision to the full IETF community for discussion would be warranted. It would be the staff's responsibility to bring those proposals to the community and manage those discussions, however.
 
-[[ TODO - How is it formed? And how to deal with the likely need for the AC to review confidential information? ]]
+(TODO - How is it formed? And how to deal with the likely need for the AC to review confidential information?)
 
 
 
@@ -185,7 +185,7 @@ Once the Executive Director and any additional staff are hired, it would be expe
 
 At the same time, there may be areas where the IETF community needs to document its consensus, e.g., expectations about community involvement in NOC or tools efforts.
 
-[[ TODO: Document how to unwind the existing structures. ]]
+(TODO: Document how to unwind the existing structures.)
 
 # Acknowledgements
 
