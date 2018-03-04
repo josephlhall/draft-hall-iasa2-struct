@@ -2,7 +2,7 @@
 
 title: Proposed Structure of the IETF Administrative Support Activity (IASA), Version 2.0 (for Discussion)
 abbrev: IASA 2.0
-docname: draft-cooper-iasa2-struct-latest
+docname: draft-hall-iasa2-struct
 category: info
 
 ipr: trust200902
