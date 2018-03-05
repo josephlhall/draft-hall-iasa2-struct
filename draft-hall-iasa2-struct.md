@@ -2,7 +2,7 @@
 
 title: Proposed Structure of the IETF Administrative Support Activity (IASA), Version 2.0 (for Discussion)
 abbrev: IASA 2.0
-docname: draft-hall-iasa2-struct-00
+docname: draft-hall-iasa2-struct-01
 category: info
 
 ipr: trust200902
@@ -13,6 +13,11 @@ stand_alone: yes
 pi: [toc, sortrefs, symrefs]
 
 author:
+  -
+    ins: B. Haberman
+    name: Brian Haberman
+    organization: Johns Hopkins University
+    email: brian@innovationslab.net
   -
     ins: J. Hall
     name: Joseph Lorenzo Hall
