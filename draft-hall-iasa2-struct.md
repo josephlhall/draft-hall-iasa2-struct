@@ -148,7 +148,7 @@ Finally, the board would be expected to operate transparently, to further addres
 
 Note also that the board formation rules of IETFAdminOrg would be defined in its corporate documents, e.g., its articles of incorporation and bylaws.
 
-On a small board, board member term lengths and appointment cycles need some careful thought to ensure some continuity on the board and to account for external term limits and appointment cycles of the IETF Chair and the ISOC trustees. One way to arrange this would be to have the IETF Nomcom-appointed member’s term be two years and shifted a year from IETF Chair’s term. Setting the term for the ISOC trustees-selected member to two years would provide some additional continuity. The two members appointed by the board itself should have terms that are not both ending at the same time.
+On a small board, board member term lengths and appointment cycles need some careful thought to ensure some continuity on the board and to account for external term limits and appointment cycles of the IETF Chair and the ISOC trustees. One way to arrange this would be to have the IETF Nomcom-appointed member’s term be two years and shifted a year from IETF Chair’s term. Setting the term for the ISOC trustees-selected member to two years would provide some additional continuity. The two members appointed by the board itself should have terms that do not both end at the same time.
 
 
 ## Staffing
