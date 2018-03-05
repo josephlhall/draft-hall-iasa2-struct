@@ -28,21 +28,23 @@ informative:
   ML-memo:
     title: Options for New Organization to Conduct IETF Administrative Support Activities
     author:
-      ins: Morgan Lewis
+      org: Morgan Lewis
     date: 2018-02
     target: https://mailarchive.ietf.org/arch/msg/iasa20/XT_3vfd3OWVFCW335mRrvWuusaI/
 
   Diagrams:
     title: IASA 2.0 Strawman Diagram
     author:
-      ins: Richard Barnes
+      name: Richard Barnes
+      ins: R. Barnes
     dates: 2018-02-16
     target: https://ipv.sx/iasa2.0/IASA-Strawman.pdf
-  
+
   Diagrams-no-trust:
     title: IASA 2.0 Strawman Diagram, IETF Trust Not Shown
     author:
-      ins: Richard Barnes
+      name: Richard Barnes
+      ins: R. Barnes
     dates: 2018-02-16
     target: https://ipv.sx/iasa2.0/IASA-Strawman-NoTrust.pdf
 
