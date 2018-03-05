@@ -32,6 +32,19 @@ informative:
     date: 2018-02
     target: https://mailarchive.ietf.org/arch/msg/iasa20/XT_3vfd3OWVFCW335mRrvWuusaI/
 
+  Diagrams:
+    title: IASA 2.0 Strawman Diagram
+    author:
+      ins: Richard Barnes
+    dates: 2018-02-16
+    target: https://ipv.sx/iasa2.0/IASA-Strawman.pdf
+  
+  Diagrams-no-trust:
+    title: IASA 2.0 Strawman Diagram, IETF Trust Not Shown
+    author:
+      ins: Richard Barnes
+    dates: 2018-02-16
+    target: https://ipv.sx/iasa2.0/IASA-Strawman-NoTrust.pdf
 
 --- abstract
 
@@ -48,7 +61,9 @@ The purpose of this document is to spur discussion by outlining some details of 
 
 In brief, the proposal in this document is to transfer most of the responsibilities that RFC 4071 currently assigns to the IAD and ISOC to the newly created IETFAdminOrg. The IAOC would be eliminated, and its oversight and advising functions transferred to the IETFAdminOrg board and a new IETF Administrative Advisory Council ("the AC"), respectively. It would be the job of IETFAdminOrg to meet the administrative needs of the IETF. It would be the job of the AC to provide any advice that the IETFAdminOrg needs from an IETF community perspective. And it would be the job of the IETFAdminOrg board to ensure that IETFAdminOrg is meeting the needs of the IETF community.
 
-Eliminating the IAOC means that there will need to be another way for trustees to be appointed for the IETF Trust. While the details of how this is done are for further work, the main principles are covered in this document.
+Eliminating the IAOC means that there will need to be another way for trustees to be appointed for the IETF Trust. The details of how this is done are for further work.
+
+The proposal in this document is depicted visually in {{Diagrams}} showing the IETF Trust and {{Diagrams-no-trust}} not showing the IETF Trust.
 
 The document does not propose any changes to anything related to the oversight or steering of the standards process as currently conducted by the IESG and IAB, the appeal chain, the confirming bodies for existing IETF and IAB appointments, or the IRTF.
 
@@ -111,7 +126,7 @@ The role of the IETFAdminOrg board would be to ensure that the strategic orienta
 
 The description below outlines one way in which the board of IETFAdminOrg could be populated. The specific details are less important than the goals motivating this particular formulation, discussed below. Depending on the legal structure of IETFAdminOrg, some or all board seats may need to be appointments made formally by ISOC {{ML-memo}}, however it may be possible to encourage or require ISOC to appoint people on the basis of recommendations from the IETF by establishing an operational agreement between IETFAdminOrg and ISOC. Thus the details of any proposed board structure may be refined depending on the legal structure that is chosen; the proposal below could just as easily be a framework for having the IETF recommend board members as it could be for having the IETF actually appoint them.
 
-The proposed structure of the board of IETFAdminOrg consists of seven people:
+The proposed structure of the board of IETFAdminOrg consists of five people:
 
 * The IETF Chair
 
