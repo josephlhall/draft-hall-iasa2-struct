@@ -203,6 +203,6 @@ At the same time, there may be areas where the IETF community needs to document 
 
 (TODO: Document how to unwind the existing structures.)
 
-# Acknowledgements
+# Acknowledgments
 
 Thanks to Sean Turner, Richard Barnes, and Alissa Cooper for discussions of possible structures, and to the attorneys of Morgan Lewis for their advice on possible legal impacts.
