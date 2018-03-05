@@ -48,7 +48,7 @@ The purpose of this document is to spur discussion by outlining some details of 
 
 In brief, the proposal in this document is to transfer most of the responsibilities that RFC 4071 currently assigns to the IAD and ISOC to the newly created IETFAdminOrg. The IAOC would be eliminated, and its oversight and advising functions transferred to the IETFAdminOrg board and a new IETF Administrative Advisory Council ("the AC"), respectively. It would be the job of IETFAdminOrg to meet the administrative needs of the IETF. It would be the job of the AC to provide any advice that the IETFAdminOrg needs from an IETF community perspective. And it would be the job of the IETFAdminOrg board to ensure that IETFAdminOrg is meeting the needs of the IETF community.
 
-Eliminating the IAOC means that there will need to be another way for trustees to be appointed for the IETF Trust. While the details of how this is done are for further work, the main principles are covered in this document. 
+Eliminating the IAOC means that there will need to be another way for trustees to be appointed for the IETF Trust. While the details of how this is done are for further work, the main principles are covered in this document.
 
 The document does not propose any changes to anything related to the oversight or steering of the standards process as currently conducted by the IESG and IAB, the appeal chain, the confirming bodies for existing IETF and IAB appointments, or the IRTF.
 
@@ -159,17 +159,6 @@ For other more minor administrative decisions, there would be no requirement tha
 The virtue of the AC would be that for matters where the staff feels confident that they understand the community's desires and direction, they could execute their tasks without additional delays or approvals. For matters where they are unsure, they could seek opinions from the AC before proceeding. And for major decisions there would be a well-defined process for the IETFAdminOrg to understand a community perspective. The AC could also provide advice about situations where bringing a proposal or decision to the full IETF community for discussion would be warranted. It would be the staff's responsibility to bring those proposals to the community and manage those discussions, however.
 
 (TODO - How is it formed? And how to deal with the likely need for the AC to review confidential information?)
-
-
-# IETF Trust
-
-The IETF Trust is its own legal entity already in IASA 1.0. It has a very specific role, and this document does not make any changes to the IETF Trust's role or role as an existing legal entity. However, two arrangements need to change:
-
-* Selection of IETF Trust trustees. In IASA 1.0, IAOC members were also trustees.
-
-* Funding. In IASA 1.0, ISOC provided the (relatively small) funds needed for operating the IETF Trust.
-
-The details of these changes require further work, but this document proposes principles that should apply. First, the trustees should be selected separately rather than through bundling with any roles within IETFAdminOrg. Second, the trustees should continue to be selected by IETF and ISOC nominations mechanisms, e.g., via IETF Nomcom and through ISOC Board. And finally, in order to consolidate all financing through IETFAdminOrg, it seems reasonable to assume that IETF Trust would get its yearly budget through IETFAdminOrg.
 
 
 # Transition Considerations
