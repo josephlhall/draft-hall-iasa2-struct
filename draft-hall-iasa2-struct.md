@@ -160,6 +160,7 @@ The virtue of the AC would be that for matters where the staff feels confident t
 
 (TODO - How is it formed? And how to deal with the likely need for the AC to review confidential information?)
 
+(TODO - While we intend this process to only minimally affect the IETF Trust, there are likely some things that will be affected (funding from IETFAdminOrg rather than ISOC, mechanism to populate the Trust).)
 
 # Transition Considerations
 
