@@ -175,8 +175,6 @@ The virtue of the AC would be that for matters where the staff feels confident t
 
 (TODO - How is it formed? And how to deal with the likely need for the AC to review confidential information?)
 
-(TODO - While we intend this process to only minimally affect the IETF Trust, there are likely some things that will be affected (funding from IETFAdminOrg rather than ISOC, mechanism to populate the Trust).)
-
 # Transition Considerations
 
 Conducting a transition as envisioned in this document would encompass many different aspects and would require action from the IETF community, the IAOC, the IAD, ISOC, the newly hired IETFAdminOrg Executive Director and staff, and newly appointed IETFAdminOrg board members. This document sketches some thoughts on the subset of tasks that would entail some IETF community involvement or review (as opposed to, say, the transfer of administrative assets).
