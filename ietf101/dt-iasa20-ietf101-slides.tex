@@ -1,0 +1,116 @@
+\documentclass[helvetica]{seminar} 
+\input{xy}
+\xyoption{all}
+\usepackage{graphicx} 
+\usepackage{slidesec} 
+% \usepackage{url}
+\usepackage{hyperref}
+\usepackage[framemethod=TikZ]{mdframed}
+\usepackage{color}
+\usepackage[normalem]{ulem}  
+
+\def\dash---{\unskip\kern.16667em---\penalty\exhyphenpenalty\hskip.16667em\ignorespaces}
+\long\def\symbolfootnote[#1]#2{\begingroup%
+\def\thefootnote{\fnsymbol{footnote}}\footnote[#1]{#2}\endgroup}
+
+% to fix problems making landscape seminar pdfs
+% Letter...
+\pdfpagewidth=11truein
+\pdfpageheight=8.5truein
+\pdfhorigin=1truein     % default value(?), but doesn't work without
+\pdfvorigin=1truein     % default value(?), but doesn't work without
+% A4
+%\pdfpagewidth=297truemm % your milage may vary....
+%\pdfpageheight=210truemm
+%\pdfhorigin=1truein     % default value(?), but doesn't work without
+%\pdfvorigin=1truein     % default value(?), but doesn't work without
+
+
+\renewcommand{\familydefault}{\sfdefault}  
+ 
+\input{seminar.bug} 
+\input{seminar.bg2} % See the Seminar bugs list 
+ 
+\slideframe{none} 
+ 
+ 
+\usepackage{fancyhdr} 
+ 
+% Headers and footers personalization using the `fancyhdr' package 
+\fancyhf{} % Clear all fields 
+\renewcommand{\headrulewidth}{0mm} 
+\renewcommand{\footrulewidth}{0.1mm} 
+ 
+\fancyfoot[L]{\tiny IETF 101} 
+\fancyfoot[C]{\tiny IASA 2.0}
+\fancyfoot[R]{\tiny \theslide} 
+ 
+ 
+% To center horizontally the headers and footers (see seminar.bug) 
+\renewcommand{\headwidth}{\textwidth} 
+
+% To adjust the frame length to the header and footer ones 
+\autoslidemarginstrue 
+\pagestyle{fancy} 
+ 
+
+\newcommand{\heading}[1]{% 
+  \begin{center} 
+    \large\bf 
+    #1 
+  \end{center} 
+  \vspace{.4 in}} 
+
+
+
+\begin{document}
+
+\begin{slide}
+\begin{center}
+\vspace{.5 in}
+\LARGE{{\bf}IASA 2.0 Strawman\\{\small \verb^draft-hall-iasa20-struct-01^}}\\
+\vspace{.2in}
+\large{
+\begin{tabular}{ c c c }
+B. Haberman & J.L. Hall & J. Livingood
+\end{tabular}
+}
+\end{center}
+\end{slide}
+
+\centerslidesfalse 
+
+\begin{slide}
+\heading{Outline}
+
+%\vspace{-8ex}         %for long lists
+\begin{itemize}
+\item Differences from IASA 1.0
+\item Brief Description of the Strawman Model
+\item Live issues for discussion:
+  \begin{itemize}
+    \item Defaut-Open Transparency
+    \item Advisory Council, to be or not to be?
+    \item Board Size and Composition
+  \end{itemize}
+\end{itemize}
+
+\end{slide}
+
+
+\begin{slide}
+
+\heading{(This is placeholder text)}
+
+{\footnotesize
+\begin{itemize}
+\item This is placeholder text!
+\end{itemize}
+}
+\end{slide}
+
+
+
+\end{document} 
+
+                
