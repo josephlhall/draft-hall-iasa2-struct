@@ -68,18 +68,58 @@
 \begin{slide}
 \begin{center}
 \vspace{.5 in}
-\LARGE{{\bf}IASA 2.0 Legal Options \& Strawman\\{\small \verb^Morgan Lewis Memo^ \& \verb^draft-hall-iasa20-struct-01^}}\\
+\LARGE{{\bf}IASA 2.0 Legal Options \& Strawman\\{\small Morgan Lewis Memo / \verb^draft-hall-iasa20-struct-01^}}\\
 \vspace{.2in}
 \large{
 \begin{tabular}{ c c c }
-B. Haberman & J. Arkko & L. Daigle \\
-J. Livingood & J.L. Hall & E. Rescorla 
+J.L. Hall  & J. Arkko & L. Daigle \\
+B. Haberman & J. Livingood  & E. Rescorla 
 \end{tabular}
 }
 \end{center}
 \end{slide}
 
 \centerslidesfalse 
+
+
+\begin{slide}
+
+\heading{IASA 2.0 Work So Far}
+
+{\footnotesize
+  \vspace{-8ex}
+\begin{itemize}
+\item IETF Chairs began process to explore
+  \href{https://mailarchive.ietf.org/arch/msg/ietf/NBhbbeFr-UZq86YnjUn2XKEEDUk}{updating
+    IASA} (Feb-2017)
+\item Some thoughts on existing structure were documented:
+  \begin{itemize}
+  \item \href{https://tools.ietf.org/html/draft-daigle-iasa-retrospective-01}{draft-daigle-iasa-retrospective}, \href{https://tools.ietf.org/html/draft-arkko-ietf-iasa-thoughts-00}{draft-arkko-ietf-iasa-thoughts}, \href{https://tools.ietf.org/html/draft-arkko-ietf-finance-thoughts-00}{draft-arkko-ietf-finance-thoughts}
+  \end{itemize}
+\item Design Team recruited: (Arkko, Daigle, Haberman, Hall,
+  Livingood, Rescorla)
+\item Two virtual workshops and DT recommendations:
+  \begin{itemize}
+  \item ``Report from the IASA 2.0 Virtual
+    Workshops''\\ \href{https://tools.ietf.org/html/draft-hall-iasa20-workshops-report-00}{draft-hall-iasa20-workshops-report}
+  \item ``IASA 2.0 Design Team
+    Recommendations''\\ \href{https://tools.ietf.org/html/draft-haberman-iasa20dt-recs-01}{draft-haberman-iasa20dt-recs}
+  \end{itemize}
+\item After Singapore, we ruled out complete independence, community
+  asked for clarilty on organizational structure:
+  \begin{itemize}
+  \item Memorandum from ISOC tax lawyers:
+    \href{https://mailarchive.ietf.org/arch/msg/iasa20/XT_3vfd3OWVFCW335mRrvWuusaI/}{Morgan
+      Lewis Memo}
+  \item A Strawman design of an IASA 2.0:
+    \href{https://datatracker.ietf.org/doc/draft-hall-iasa2-struct/}{draft-hall-iasa2-struct}
+  \end{itemize}
+\end{itemize}
+}
+\end{slide}
+
+% IASA 2.0 announcement 2/13/27
+% IASA 2.0 Design Team kick-off 5/31/2017
 
 \begin{slide}
 \resizebox{11cm}{!}{
@@ -89,8 +129,8 @@ J. Livingood & J.L. Hall & E. Rescorla
 \begin{centering}         
 \begin{tabular}{ | p{2.0cm} | p{0.8cm} | p{1.9cm} | p{2.6cm} | p{0.8cm} |}
   \hline
-  \textbf{draft-haberman:} & \multicolumn{1}{|c|}{independent} & \multicolumn{2}{|c|}{ISOC Subsidiary} & \multicolumn{1}{|c|}{IASA++} \\ \hline
-  \textbf{ML memo:} & \multicolumn{1}{|c|}{independent} & \multicolumn{1}{|c|}{Type-I support org} & \multicolumn{1}{|c|}{LLC} & \multicolumn{1}{|c|}{Activity of ISOC} \\ \hline \hline
+  \href{https://tools.ietf.org/html/draft-haberman-iasa20dt-recs-01}{\textbf{draft-haberman:}} & \multicolumn{1}{|c|}{independent} & \multicolumn{2}{|c|}{ISOC Subsidiary} & \multicolumn{1}{|c|}{IASA++} \\ \hline
+  \href{https://mailarchive.ietf.org/arch/msg/iasa20/XT_3vfd3OWVFCW335mRrvWuusaI/}{\textbf{Morgan Lewis memo:}} & \multicolumn{1}{|c|}{independent} & \multicolumn{1}{|c|}{Type-I support org} & \multicolumn{1}{|c|}{LLC} & \multicolumn{1}{|c|}{Activity of ISOC} \\ \hline \hline
   \multicolumn{5}{|c|}{\textbf{I. Governance}} \\ \hline
   Would ISOC be required to be involved in appointing board members of IETFAdminOrg (IAO)? & No & Yes. ISOC to appoint majority of IAO Board members, perhaps upon IETF recommendations. & No. ISOC can delegate responsibility for appointing all IAO Board members to IETF bodies, but retain ultimate control of the LLC & Yes, as today \\ \hline
   Can IAO Board hire and fire the IAO Exec Dir? & Yes & Yes & Yes & No \\ \hline
@@ -113,11 +153,37 @@ J. Livingood & J.L. Hall & E. Rescorla
 
 \begin{slide}
 
-\heading{(This is placeholder text)}
+\heading{draft-hall-iasa20-struct-01}
 
 {\footnotesize
+\vspace{-8ex}
 \begin{itemize}
-\item This is placeholder text!
+\item An attempt at a proposed structure, far from perfect
+\item Points of discussion on the \texttt{iasa20} list:
+  \begin{itemize}
+  \item Transparency of IAO and IAO Board
+    \begin{itemize}
+    \item Can we agree: ``Whatever doesn't have a specific
+      justification for being kept confidential, should be made
+      public.  There must exist a public list of confidential items,
+      describing the nature of the information and the reason for
+      confidentiality.'' (will take to IETF community)
+    \end{itemize}
+  \item Board size, composition, compensation
+    \begin{itemize}
+    \item Size: 5 (too small?)
+    \item Composed: 1 IETF Chair, 1 IETF NOMCOM-appointed, 1
+      IAB-appointed ISOC Board of Trustees, 2 Members selected by
+      IAO~Board itself.
+    \item Compensation?
+    \end{itemize}
+  \item Advisory Council function, existence
+    \begin{itemize}
+    \item Proposed to offer community guidance to IASA and IAO~ED.
+    \item Function like IAOC committees do today, but purely advisory.
+    \item Size, composition, rhythyms, and requirements unclear.
+    \end{itemize}
+  \end{itemize}
 \end{itemize}
 }
 \end{slide}
