@@ -14,6 +14,16 @@ pi: [toc, sortrefs, symrefs]
 
 author:
  -
+    ins: J. Hall, Ed.
+    name: Joseph Lorenzo Hall (Editor)
+    organization: CDT
+    email: joe@cdt.org
+ -
+    ins: B. Haberman, Ed.
+    name: Brian Haberman (Editor)
+    organization: Johns Hopkins University Applied Physics Lab
+    email: brian@innovationslab.net
+ -
     ins: J. Arkko
     name: Jari Arkko
     organization: Ericsson Research
@@ -23,22 +33,12 @@ author:
     name: Leslie Daigle
     organization: Thinking Cat Enterprises LLC
     email: ldaigle@thinkingcat.com
- -    
-    ins: B. Haberman
-    name: Brian Haberman
-    organization: Johns Hopkins University Applied Physics Lab
-    email: brian@innovationslab.net
- -    
-    ins: J. Hall
-    name: Joseph Lorenzo Hall
-    organization: CDT
-    email: joe@cdt.org
- -    
+ -
     ins: J. Livingood
     name: Jason Livingood
     organization: Comcast
     email: Jason_Livingood@comcast.com
- -    
+ -
     ins: E. Rescorla
     name: Eric Rescorla
     organization: RTFM, Inc.
@@ -91,6 +91,24 @@ The document does not propose any changes to anything related to the oversight o
 
 If the community decides to make changes to IASA along the lines sketched out in this document, normative changes to IETF processes will need to be documented in an RFC. Additional legal documents (e.g., articles of incorporation, bylaws, operating agreements) relating to the legal entity would provide the official, legal definitions of processes, roles, etc. {{transition-considerations}} sketches some initial thoughts about transition; publishing a detailed transition plan would likely also be useful.
 
+# Legal Options for IETF Organizational Change
+
+After IETF 100 in November of 2017, the IETF community clearly wanted
+more input on the various legal options available for IETF
+restructuring as well as the trade-offs among the various options.
+The Design Team working with the IETF Chair asked the Internet
+Society's tax law attorneys to outline a series of options based on
+the requirements developed in this process. The result is a memorandum
+{{ML-memo}} that outlines the various options and their trade-offs.
+In this section, we summarize those options
+
+## Option 1 - Independent 501(c)(3)
+
+## Option 2 - Type 1 Supporting Organization
+
+## Option 3 - Disregarded LLC
+
+## Option 4 - Activity of Internet Society
 
 # Differences from IASA 1.0
 
