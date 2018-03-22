@@ -103,25 +103,6 @@ The document does not propose any changes to anything related to the oversight o
 
 If the community decides to make changes to IASA along the lines sketched out in this document, normative changes to IETF processes will need to be documented in an RFC. Additional legal documents (e.g., articles of incorporation, bylaws, operating agreements) relating to the legal entity would provide the official, legal definitions of processes, roles, etc. {{transition-considerations}} sketches some initial thoughts about transition; publishing a detailed transition plan would likely also be useful.
 
-# Legal Options for IETF Organizational Change
-
-After IETF 100 in November of 2017, the IETF community clearly wanted
-more input on the various legal options available for IETF
-restructuring as well as the trade-offs among the various options.
-The Design Team working with the IETF Chair asked the Internet
-Society's tax law attorneys to outline a series of options based on
-the requirements developed in this process. The result is a memorandum
-{{ML-memo}} that outlines the various options and their trade-offs.
-In this section, we summarize those options
-
-## Option 1 - Independent 501(c)(3)
-
-## Option 2 - Type 1 Supporting Organization
-
-## Option 3 - Disregarded LLC
-
-## Option 4 - Activity of Internet Society
-
 # Differences from IASA 1.0
 
 * The IAOC and IAD roles defined in RFC 4071 would be eliminated.
@@ -132,7 +113,7 @@ In this section, we summarize those options
 
 * A new IETF Administrative Advisory Council ("the AC") would be established, which would assume the advisory responsibilities of the IAOC.
 
-# Problem Statement
+# Problem Statement {#problem-statement}
 
 The purpose of this part of the document is to describe a few problem areas with enough detail to allow the comparison of potential IASA structure updates (among themselves, as well as comparison to the status quo) that must be addressed by IETFAdminOrg.  This is intentionally illustrative, rather than an exhaustive enumeration of all possible and perceived issues with the current structure and implementation.  Nevertheless, the examples are concrete and real.  (For a fuller description of the perceived issues with the current IASA arrangements, see {{?I-D.daigle-iasa-retrospective}}, {{?I-D.hall-iasa20-workshops-report}}, {{?I-D.arkko-ietf-iasa-thoughts}}, and ongoing discussion on the iasa20@ietf.org mailing list.
 
@@ -214,7 +195,7 @@ The IETF is increasingly relying on professional services to support its activit
 
 # Goals
 
-The IASA redesign effort needs to address the main issues listed above in (problem statement).  More specifically, the future organizational structure needs to do at least the following:
+The IASA redesign effort needs to address the main issues listed above in {problem-statement}.  More specifically, the future organizational structure needs to do at least the following:
 
 * Protect the IETF's Culture and Technical Work: Ensure that the future IASA organizational structure and processes preserve and protect the IETF's unique culture of individual contribution, clear separation of financial support from technical work, as well as the "rough consensus and running code" approach to the development of open Internet standards.
 
@@ -239,6 +220,25 @@ The IASA redesign effort needs to address the main issues listed above in (probl
 * Define Improved Transparency Requirements: The general level of operational transparency and information-sharing between IETF administrative staff and groups to the IETF community must be kept at an acceptable level, and improved where it makes sense in the future.  This includes ensuring the timeliness of sharing of information and decisions, as well as seeking comment on prospective decisions.  At the same time, we need to reset expectations around delegated authority so that once staff or an administrative support organization has been delegated certain authority it is clear that they are empowered to proceed in a particular area, so as to improve organizational efficiency, reduce friction, and improve the pace of work and decision-making.  However, it is clear that enabling a group or staff to act within their delegated authority depends upon a clearer definition of roles and responsibilities, on improved transparency, on improved communications, and on trust (which is built upon all of those things over time).
 
 * Define a Transition Plan: Determine what new IASA structure we need and define a transition plan from the model the IETF has today to the new structure.
+
+# Legal Options for IETF Organizational Change
+
+After IETF 100 in November of 2017, the IETF community clearly wanted
+more input on the various legal options available for IETF
+restructuring as well as the trade-offs among the various options.
+The Design Team working with the IETF Chair asked the Internet
+Society's tax law attorneys to outline a series of options based on
+the requirements developed in this process. The result is a memorandum
+{{ML-memo}} that outlines the various options and their trade-offs.
+In this section, we summarize those options
+
+## Option 1 - Independent 501(c)(3)
+
+## Option 2 - Type 1 Supporting Organization
+
+## Option 3 - Disregarded LLC
+
+## Option 4 - Activity of Internet Society
 
 # IETFAdminOrg
 
