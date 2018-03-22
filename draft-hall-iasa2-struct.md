@@ -243,4 +243,4 @@ At the same time, there may be areas where the IETF community needs to document 
 
 # Acknowledgments
 
-Thanks to Jari Arkko, Richard Barnes, Alissa Cooper, Brian Haberman, and Sean Turner for discussions of possible structures, and to the attorneys of Morgan Lewis for their advice on possible legal impacts.
+Thanks to Richard Barnes, Alissa Cooper, and Sean Turner for discussions of possible structures, and to the attorneys of Morgan Lewis for their advice on possible legal impacts.
