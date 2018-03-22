@@ -89,9 +89,9 @@ Society.
 
 # Introduction
 
-The IETF Administrative Support Activity (IASA) was originally established in 2005 {{!RFC4071}}.  In the intervening years, the needs of the IETF have evolved in ways that require changes to its administrative structure. {{?I-D.haberman-iasa20dt-recs}} discusses the challenges facing the current structure as well as several options for reorganizing the IETF's administration under different legal structures. {{ML-memo}} further outlines the legal details of various options, including three options -- an independent 501(c)(3) organization, a 501(c)(3) Type 1 supporting organization of ISOC, and an LLC that is a disregarded entity of ISOC -- that would entail setting up a new organization to house the administration of the IETF. This document outlines one way that such an organization could be structured and describes how the organization could fit together with existing and new IETF community structures. In this document the new administrative organization is known as IETFAdminOrg.
+The IETF Administrative Support Activity (IASA) was originally established in 2005 {{!RFC4071}}.  In the intervening years, the needs of the IETF have evolved in ways that require changes to its administrative structure. {problem-statement} discusses the challenges facing the current structure and {legal-options} describes several options for reorganizing the IETF's administration under different legal structures. {{ML-memo}} further outlines the legal details of various options, including three options -- an independent 501(c)(3) organization, a 501(c)(3) Type 1 supporting organization of ISOC, and an LLC that is a disregarded entity of ISOC -- that would entail setting up a new organization to house the administration of the IETF. This document outlines one way that such an organization could be structured and describes how the organization could fit together with existing and new IETF community structures. In this document the new administrative organization is known as IETFAdminOrg.
 
-The purpose of this document is to spur discussion by outlining some details of what an "IASA 2.0" arrangement could look like. Some of the details of the organizational structure are dependent on the choice of legal structure, but others are not. While community discussion of the legal structure continues, the point of this document is to get community input about organizational approaches to solving some of the challenges identified in {{?I-D.haberman-iasa20dt-recs}}. Ultimately, if the IETF community decides to make changes to IASA, those changes will need to be documented in an update to or replacement of RFC 4071.
+The purpose of this document is to spur discussion by outlining some details of what an "IASA 2.0" arrangement could look like. Some of the details of the organizational structure are dependent on the choice of legal structure, but others are not. While community discussion of the legal structure continues, the point of this document is to get community input about organizational approaches to solving some of the challenges identified in {problem-statement}. Ultimately, if the IETF community decides to make changes to IASA, those changes will need to be documented in an update to or replacement of RFC 4071.
 
 In brief, the proposal in this document is to transfer most of the responsibilities that RFC 4071 currently assigns to the IAD and ISOC to the newly created IETFAdminOrg. The IAOC would be eliminated, and its oversight and advising functions transferred to the IETFAdminOrg board and a new IETF Administrative Advisory Council ("the AC"), respectively. It would be the job of IETFAdminOrg to meet the administrative needs of the IETF. It would be the job of the AC to provide any advice that the IETFAdminOrg needs from an IETF community perspective. And it would be the job of the IETFAdminOrg board to ensure that IETFAdminOrg is meeting the needs of the IETF community.
 
@@ -109,7 +109,7 @@ The purpose of this part of the document is to describe a few problem areas with
 
 In general, the range of IETF administrative tasks have grown considerably, our organizational structure is not as clear, efficient, or as fully resourced as it should be, the division of responsibilities between the IETF and ISOC continues to evolve, expectations on transparency have changed, and we face continued challenges related to funding IETF activities on a background of increasing costs and lack of predictability in our funding streams.
 
-## Lack of Clarity
+## Lack of Clarity {#lack-clarity}
 
 In general, as the IETF has grown and aged, an increasing lack of clarity exists in a number of specific areas.  We discuss four areas where this lack of clarity is specifically acute: responsibility, representation, authority, and oversight.
 
@@ -143,7 +143,7 @@ For example, due to IETF's lack of legal status, contractual agreements must be 
 
 IETFAdminOrg must have enough and appropriate authority to carry out the IETF's administrative requirements and activities in a timely fashion, and as the IETF desires (within reason of normal business and legal requirements).
 
-### Oversight
+### Oversight {#oversight}
 
 The IAOC is the primary oversight body in the current IASA model, but there can be confusion or mismatches in roles.  For example, to the extent that ISOC staff besides the IAD become engaged in administrative work for the IETF, to whom do they report?  The IAOC, the IAD, or their management at ISOC?  Even if the reporting line for such staff were more clear, clearly there are power dynamics in this role that might pull an ISOC-assigned IETF staffer in directions that might not be in the best interests of IETF, consciously or unconsciously.
 
@@ -151,7 +151,7 @@ Furthermore, when we're in a position where we need more staff support, it's not
 
 IETFAdminOrg's oversight functions must be complete and coherent.  For example, it might either take on full oversight responsibility for staff employment functions (including reporting structures and career development), or the oversight role must be limited to review input submitted to the external sources responsible for employment.
 
-## Lack of Resources
+## Lack of Resources {#lack-resources}
 
 IETF faces growing constraints on resources essential for IETF to function, notably in volunteers and staff.
 
@@ -165,13 +165,13 @@ IETFAdminOrg must rely less on volunteers or be better assured of engagement of 
 
 IETF faces serious constraints on staff capacity under the current IASA model.  The one IAD role and support from contractors have been used to assure that capacity needed is for the most part in place.  However, it seems clear that the IAD role is overly complex and taxing for a single human at this point, necessitating measures such as providing an administrator for the IAOC to better run that body and their meetings.  IETFAdminOrg will require more paid employment support dedicated to IETF work.
 
-## Lack of Transparency
+## Lack of Transparency {#lack-transparency}
 
 The IAOC has sometimes been perceived to operate less transparently than what is the norm for IETF processes and other IETF leadership bodies.  This can be observed, for example, in the failure to publicly share agreed information in a timely fashion.  The reasons behind this vary but can sometimes be caused by lack of resources to review and prepare material for community review, or even fear of community reaction to potential administrative decisions.
 
 Work to increase transparency has made progress, but we must continue to address and improve this.  At the same time, a balance must be struck to reach the right level of transparency, so that certain aspects of contracts, business terms, and negotiations can remain confidential, according to legal and business practice norms.  It will be important for the community and any future IASA function to better define this in order to better meet well-defined, balanced community expectations on transparency and information sharing.  IETFAdminOrg will be required to operated in a transparent fashion per community expectations set as part of this IASA 2.0 process.
 
-## Funding/Operating Model Mismatch and Rising Costs
+## Funding/Operating Model Mismatch and Rising Costs {#funding}
 
 Meeting fees are currently an important source of revenue, but the emergence of more viable remote participation tools and other factors are likely responsible for declining in-person meeting attendance going forward.
 
@@ -211,7 +211,7 @@ The IASA redesign effort needs to address the main issues listed above in {probl
 
 * Define a Transition Plan: Determine what new IASA structure we need and define a transition plan from the model the IETF has today to the new structure.
 
-# Legal Options for IETF Organizational Change
+# Legal Options for IETF Organizational Change {#legal-options}
 
 After IETF 100 in November of 2017, the IETF community clearly wanted
 more input on the various legal options available for IETF
@@ -271,7 +271,7 @@ The proposed responsibilities of the IETFAdminOrg are listed below. Whether thes
 
 * Fundraising. The IETFAdminOrg is responsible for raising money on behalf of the IETF.
 
-Housing these responsibilities at IETFAdminOrg is designed to address the problems described in Sections 3.1.1., 3.1.2, and 3.1.3 of {{?I-D.haberman-iasa20dt-recs}} concerning lack of clarity around responsibility, representation, and authority. By having IETFAdminOrg manage the IETF's finances and conduct the IETF's fundraising, confusion about who is responsible for representing the IETF to sponsors and who directs the uses of sponsorship funds could be reduced or eliminated. Having IETFAdminOrg reside in a legal entity and take responsibility for operations would allow the org to execute its own contracts without the need for further approvals from ISOC.
+Housing these responsibilities at IETFAdminOrg is designed to address the problems described in {lack-clarity} concerning lack of clarity around responsibility, representation, and authority. By having IETFAdminOrg manage the IETF's finances and conduct the IETF's fundraising, confusion about who is responsible for representing the IETF to sponsors and who directs the uses of sponsorship funds could be reduced or eliminated. Having IETFAdminOrg reside in a legal entity and take responsibility for operations would allow the org to execute its own contracts without the need for further approvals from ISOC.
 
 The IETFAdminOrg would be expected to conduct its work according to the following principles:
 
@@ -281,7 +281,7 @@ The IETFAdminOrg would be expected to conduct its work according to the followin
 
 * Diligence. The IETFAdminOrg would be expected to act responsibly so as to minimize risks to IETF participants and to the future of the IETF as a whole.
 
-The transparency and responsiveness principles are designed to address the concern outlined in Section 3.3 of {{?I-D.haberman-iasa20dt-recs}} about the need for improved timeliness of sharing of information and decisions and seeking community comments. There is a need for agreement between the IETF community and the IETFAdminOrg about the where to draw the line between community's need for information and the need to keep some business and personnel data confidential. The devil here is in the details and it would be expected that one of the first tasks for the IETFAdminOrg Executive Director would be to document how IETFAdminOrg would engage with the community and to vet that proposal with the community.
+The transparency and responsiveness principles are designed to address the concern outlined in {lack-transparency} about the need for improved timeliness of sharing of information and decisions and seeking community comments. There is a need for agreement between the IETF community and the IETFAdminOrg about the where to draw the line between community's need for information and the need to keep some business and personnel data confidential. The devil here is in the details and it would be expected that one of the first tasks for the IETFAdminOrg Executive Director would be to document how IETFAdminOrg would engage with the community and to vet that proposal with the community.
 
 
 ## Board Formation and Responsibilities
@@ -316,9 +316,9 @@ The goal of this structure is to balance the need for IETFAdminOrg to be account
 
 The board is smaller than the current IAOC and the other leadership bodies of the IETF. Part of the motivation for keeping the board small is to keep the board focused on its rather limited set of tasks.
 
-This board structure, together with the staffing proposal below, is designed to overcome the challenges described in Section 3.1.4 of {{?I-D.haberman-iasa20dt-recs}} concerning oversight. It establishes a clear line of oversight over staff performance: the board oversees the Executive Director's performance and has actual legal authority to remove a non-performing Executive Director. The Executive Director is responsible for the performance of the IETFAdminOrg.
+This board structure, together with the staffing proposal below, is designed to overcome the challenges described in {oversight} concerning oversight. It establishes a clear line of oversight over staff performance: the board oversees the Executive Director's performance and has actual legal authority to remove a non-performing Executive Director. The Executive Director is responsible for the performance of the IETFAdminOrg.
 
-Finally, the board would be expected to operate transparently, to further address the concern raised in Section 3.3 of {{?I-D.haberman-iasa20dt-recs}}. As with the IETFAdminOrg, the board would need to establish up front how it would fulfill this commitment and how and when it would inform the IETF community about its actions.  These commitments and procedures embodying them could be encoded in the board's governing documents (e.g., bylaws).
+Finally, the board would be expected to operate transparently, to further address the concern raised in {lack-transparency}. As with the IETFAdminOrg, the board would need to establish up front how it would fulfill this commitment and how and when it would inform the IETF community about its actions.  These commitments and procedures embodying them could be encoded in the board's governing documents (e.g., bylaws).
 
 Note also that the board formation rules of IETFAdminOrg would be defined in its corporate documents, e.g., its articles of incorporation and bylaws.
 
@@ -327,7 +327,7 @@ On a small board, board member term lengths and appointment cycles need some car
 
 ## Staffing
 
-IETFAdminOrg would be led by an Executive Director chosen by the board. The Executive Director would determine what other staff and contractors are required by IETFAdminOrg. Allowing for the division of responsibilities among multiple staff members and contractors should hopefully address some of the concerns raised in Section 3.2 (Lack of Resources) and Section 3.4 (Funding/Operating Model Mismatch and Rising Costs) of {{?I-D.haberman-iasa20dt-recs}}.
+IETFAdminOrg would be led by an Executive Director chosen by the board. The Executive Director would determine what other staff and contractors are required by IETFAdminOrg. Allowing for the division of responsibilities among multiple staff members and contractors should hopefully address some of the concerns raised in {lack-resources} and {funding}.
 
 Based on the amount of work currently undertaken by the IAD and others involved in the IETF administration who are not currently in contracted roles, it is anticipated that the Executive Director would hire multiple additional staff members. For example, there will likely be a need for dedicated staff to manage fundraising, to manage the various contractors that are engaged to fulfill the IETF's administrative needs, and to support outreach and communications.
 
