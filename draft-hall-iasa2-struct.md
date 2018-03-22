@@ -230,19 +230,25 @@ In this section, we summarize those options
 
 ## Option 4 - Activity of Internet Society
 
-# Analysis
+# Design Team Recommendation (Option 3)
 
 (Why the Design Team recommends LLC)
 
 (Possibly have a table that maps goals into the LLC)
 
-# Important Issues for Consideration
+# Important Issues from the IETF Community
 
 (Surface some of the discussion from the IASA20 BOF at IETF 101)
 
 (get the transparency text in here, talk about what the AC could do
 and what functions IAOC performs now that we wouldn't want to lose,
 talk about board comp (?), and non-US.)
+
+## Transparency
+
+## IETFAdminOrg Board
+
+## Input from the IETF Community (AC or not to AC)
 
 # (Unsure if we'll keep anything after this)
 
