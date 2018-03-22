@@ -214,7 +214,7 @@ The IETF is increasingly relying on professional services to support its activit
 
 # Goals
 
-The IASA redesign effort needs to address the main issues listed above in {{problem statement}}.  More specifically, the future organizational structure needs to do at least the following:
+The IASA redesign effort needs to address the main issues listed above in (problem statement).  More specifically, the future organizational structure needs to do at least the following:
 
 * Protect the IETF's Culture and Technical Work: Ensure that the future IASA organizational structure and processes preserve and protect the IETF's unique culture of individual contribution, clear separation of financial support from technical work, as well as the "rough consensus and running code" approach to the development of open Internet standards.
 
