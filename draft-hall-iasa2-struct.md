@@ -230,6 +230,22 @@ In this section, we summarize those options
 
 ## Option 4 - Activity of Internet Society
 
+# Analysis
+
+(Why the Design Team recommends LLC)
+
+(Possibly have a table that maps goals into the LLC)
+
+# Important Issues for Consideration
+
+(Surface some of the discussion from the IASA20 BOF at IETF 101)
+
+(get the transparency text in here, talk about what the AC could do
+and what functions IAOC performs now that we wouldn't want to lose,
+talk about board comp (?), and non-US.)
+
+# (Unsure if we'll keep anything after this)
+
 # Differences from IASA 1.0
 
 * The IAOC and IAD roles defined in RFC 4071 would be eliminated.
