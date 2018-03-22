@@ -21,7 +21,7 @@ author:
  -
     ins: B. Haberman, Ed.
     name: Brian Haberman (Editor)
-    organization: Johns Hopkins University Applied Physics Lab
+    organization: Johns Hopkins University
     email: brian@innovationslab.net
  -
     ins: J. Arkko
