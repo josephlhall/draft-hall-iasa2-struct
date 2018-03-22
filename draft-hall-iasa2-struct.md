@@ -70,7 +70,19 @@ informative:
 
 --- abstract
 
-The IETF Administrative Support Activity (IASA) was originally established in 2005.  In the intervening years, the needs of the IETF have evolved in ways that require changes to its administrative structure.  The purpose of this document is to spur discussion by outlining some details of what an "IASA 2.0" arrangement could look like. The proposal is for the execution of the IETF's administrative and fundraising tasks to be conducted by a new administrative organization ("IETFAdminOrg"). The IAOC would be eliminated, and its oversight and advising functions transferred to the IETFAdminOrg board and a new IETF Administrative Advisory Council, respectively.
+The IETF Administrative Support Activity (IASA) was originally
+established in 2005.  In the intervening years, the needs of the IETF
+have evolved in ways that require changes to its administrative
+structure.  The IETF Chair started an effort in November of 2016 to
+begin the process of changing the IETF administrative structure,
+starting with a set of virtual workshops to get input from the IETF
+community, and then encompassing a series of BOF sessions at IETFs to
+define the problem, develop requirements, explore potential options
+for changes, and a Design Team that would make recommendations.  The
+purpose of this document is to collect in one place all of the various
+materials that have lead up to the Design Team recommending that IETF
+be a Disregarded Limited Liability Corporation of the Internet
+Society.
 
 
 --- middle
