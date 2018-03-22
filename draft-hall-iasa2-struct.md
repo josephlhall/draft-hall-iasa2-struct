@@ -13,21 +13,36 @@ stand_alone: yes
 pi: [toc, sortrefs, symrefs]
 
 author:
-  -
+ -
+    ins: J. Arkko
+    name: Jari Arkko
+    organization: Ericsson Research
+    email: jari.arkko@piuha.net
+ -
+    ins: L. Daigle
+    name: Leslie Daigle
+    organization: Thinking Cat Enterprises LLC
+    email: ldaigle@thinkingcat.com
+ -    
     ins: B. Haberman
     name: Brian Haberman
-    organization: Johns Hopkins University
+    organization: Johns Hopkins University Applied Physics Lab
     email: brian@innovationslab.net
-  -
+ -    
     ins: J. Hall
     name: Joseph Lorenzo Hall
     organization: CDT
     email: joe@cdt.org
-  -
+ -    
     ins: J. Livingood
     name: Jason Livingood
     organization: Comcast
     email: Jason_Livingood@comcast.com
+ -    
+    ins: E. Rescorla
+    name: Eric Rescorla
+    organization: RTFM, Inc.
+    email: ekr@rtfm.com
 
 informative:
   ML-memo:
