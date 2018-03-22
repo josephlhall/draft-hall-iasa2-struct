@@ -103,16 +103,6 @@ The document does not propose any changes to anything related to the oversight o
 
 If the community decides to make changes to IASA along the lines sketched out in this document, normative changes to IETF processes will need to be documented in an RFC. Additional legal documents (e.g., articles of incorporation, bylaws, operating agreements) relating to the legal entity would provide the official, legal definitions of processes, roles, etc. {{transition-considerations}} sketches some initial thoughts about transition; publishing a detailed transition plan would likely also be useful.
 
-# Differences from IASA 1.0
-
-* The IAOC and IAD roles defined in RFC 4071 would be eliminated.
-
-* The ISOC and IAD responsibilities described in RFC 4071 would be assigned to a new organization, "IETFAdminOrg." The legal structure of this entity is to be determined.
-
-* The corporate board of IETFAdminOrg would assume the oversight responsibilities of the IAOC.
-
-* A new IETF Administrative Advisory Council ("the AC") would be established, which would assume the advisory responsibilities of the IAOC.
-
 # Problem Statement {#problem-statement}
 
 The purpose of this part of the document is to describe a few problem areas with enough detail to allow the comparison of potential IASA structure updates (among themselves, as well as comparison to the status quo) that must be addressed by IETFAdminOrg.  This is intentionally illustrative, rather than an exhaustive enumeration of all possible and perceived issues with the current structure and implementation.  Nevertheless, the examples are concrete and real.  (For a fuller description of the perceived issues with the current IASA arrangements, see {{?I-D.daigle-iasa-retrospective}}, {{?I-D.hall-iasa20-workshops-report}}, {{?I-D.arkko-ietf-iasa-thoughts}}, and ongoing discussion on the iasa20@ietf.org mailing list.
@@ -239,6 +229,17 @@ In this section, we summarize those options
 ## Option 3 - Disregarded LLC
 
 ## Option 4 - Activity of Internet Society
+
+# Differences from IASA 1.0
+
+* The IAOC and IAD roles defined in RFC 4071 would be eliminated.
+
+* The ISOC and IAD responsibilities described in RFC 4071 would be assigned to a new organization, "IETFAdminOrg." The legal structure of this entity is to be determined.
+
+* The corporate board of IETFAdminOrg would assume the oversight responsibilities of the IAOC.
+
+* A new IETF Administrative Advisory Council ("the AC") would be established, which would assume the advisory responsibilities of the IAOC.
+
 
 # IETFAdminOrg
 
