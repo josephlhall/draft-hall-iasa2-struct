@@ -14,13 +14,15 @@ pi: [toc, sortrefs, symrefs]
 
 author:
  -
-    ins: J. Hall, Ed.
-    name: Joseph Lorenzo Hall (Editor)
+    role: editor
+    ins: J. Hall
+    name: Joseph Lorenzo Hall
     organization: CDT
     email: joe@cdt.org
  -
-    ins: B. Haberman, Ed.
-    name: Brian Haberman (Editor)
+    role: editor
+    ins: B. Haberman
+    name: Brian Haberman
     organization: Johns Hopkins University
     email: brian@innovationslab.net
  -
@@ -45,6 +47,8 @@ author:
     email: ekr@rtfm.com
 
 informative:
+  RFC4071:
+  
   ML-memo:
     title: Options for New Organization to Conduct IETF Administrative Support Activities
     author:
@@ -89,32 +93,6 @@ Society.
 
 # Introduction
 
-The IETF Administrative Support Activity (IASA) was originally
-established in 2005 {{!RFC4071}}.  In the intervening years, the needs
-of the IETF have evolved in ways that require changes to its
-administrative structure. {problem-statement} discusses the challenges
-facing the current structure and {legal-options} describes several
-options for reorganizing the IETF's administration under different
-legal structures. {{ML-memo}} further outlines the legal details of
-various options, including three options -- an independent 501(c)(3)
-organization, a 501(c)(3) Type 1 supporting organization of ISOC, and
-an LLC that is a disregarded entity of ISOC -- that would entail
-setting up a new organization to house the administration of the
-IETF. This document outlines one way that such an organization could
-be structured and describes how the organization could fit together
-with existing and new IETF community structures. In this document the
-new administrative organization is known as IETFAdminOrg.
-
-The purpose of this document is to spur discussion by outlining some
-details of what an "IASA 2.0" arrangement could look like. Some of the
-details of the organizational structure are dependent on the choice of
-legal structure, but others are not. While community discussion of the
-legal structure continues, the point of this document is to get
-community input about organizational approaches to solving some of the
-challenges identified in {problem-statement}. Ultimately, if the IETF
-community decides to make changes to IASA, those changes will need to
-be documented in an update to or replacement of RFC 4071.
-
 In brief, the proposal in this document is to transfer most of the
 responsibilities that RFC 4071 currently assigns to the IAD and ISOC
 to the newly created IETFAdminOrg. The IAOC would be eliminated, and
@@ -147,6 +125,164 @@ relating to the legal entity would provide the official, legal
 definitions of processes, roles, etc. {{transition-considerations}}
 sketches some initial thoughts about transition; publishing a detailed
 transition plan would likely also be useful.
+
+The arrangements relating to administrative support for the IETF
+(referred to as the "IETF Administrative Support Activity" (IASA)
+({{RFC4071}}) were created more than ten years ago, when the IETF
+initially took charge of its own administration.  The arrangements
+have served the IETF reasonably well, but there's been considerable
+change in the necessary tasks, in the world around us, and our own
+expectations since the creation of the IASA.  What administrative
+arrangements best support the IETF in the next ten years?
+
+The system has experienced various challenges and frustrations along
+the way, for instance around meeting arrangements.  There are also
+some bigger questions about how the organizations are structured, for
+instance about the division of responsibilities between IETF and The
+Internet Society (ISOC).
+
+The IETF community has discussed and continues to discuss these
+topics, most recently on the "IASA 2.0" mailing list and BOFs at
+IETFs 98 and 99.  Alissa Cooper, the Chair of the IETF, convened a
+small design team to start evaluating potential options going
+forward.  The purpose of the design team is to provide material that
+informs the community discussion, both in terms of providing a bit
+more worked through solution ideas, as well as supporting analysis of
+the implications of those options.  This information, along with all
+other input provided in the discussion, hopefully helps the community
+and IETF leadership decide what next steps to take.
+
+To be clear, the community is in charge of adopting any
+recommendations or making any decisions.  This draft, the output of
+the design team's considerations, has no particular official
+standing.  It should also be noted that IETF administrative matters
+have been organized jointly with ISOC, and it is important that ISOC
+continue to be involved in IETF's reorganization.
+
+The design team seeks feedback particularly on three aspects:
+
+* If the set of options outlined in this draft covers the options that
+  should be looked at.
+
+* If the analysis of the implications of the options is correct.
+
+* Which direction the community would like to take the work in
+  evolving IASA.
+
+It should of course be acknowledged that there is no perfect, or even
+great solution.  Changing the IETF organizational structure will not
+fix every problem and may bring new problems of its own.  But it seems
+that the current structure is brittle and the issues around lack of
+staff and authority, clarity, and responsibility are sufficiently
+serious to warrant exploring different options.
+
+This document defines the goals of the IASA 2.0 effort in terms of an
+abstract administrative structure, called IETFAdminOrg.  Then, three
+possible implementations of IETFAdminOrg are considered in the light
+of how they could be used to address the goals.  In no case does
+IETFAdminOrg have anything to do with defining, changing, or operating
+the IETF's standards process and structure (participants (not
+members), WGs, IESG and so on), which remain as they stand today.  In
+particular, none of the options lead to the IETF becoming a formal
+organisation of any sort.
+
+As a base for this work there was a good articulation of the set of
+problems we are facing in [I-D.hall-iasa20-workshops-report] and
+[I-D.daigle-iasa-retrospective].  The community discussion seems have
+indicated also some of the outcome properties that are expected.
+
+The next two sections (Section 2 and Section 3) describe the
+background and summarize the challenges noted in the community
+discussion.  The two sections after that (Section 4 and Section 5)
+describe the goals and primary options for changes.  The following
+two sections (Section 6 and Section 7) focus on analysis of the
+different options along with conclusions.
+
+#  Background
+
+##  Terminology
+
+The following acronyms are used in this document:
+
+* IASA - IETF Administrative Support Activity - An organized activity
+  that provides administrative support for the IETF, the IAB, and the
+  IESG.
+
+* IAOC - IETF Administrative Oversight Committee in the current IASA
+  system - A largely IETF-selected committee that oversees and directs
+  IASA.  Accountable to the IETF community.
+
+* IAOC committees - Recognizing the need for specialized attention for
+  different branches of work requiring IAOC oversight, the IAOC
+  expanded its support by creating committees.  Currently, the
+  committees do the heavy lifting on specific tasks, while the IAOC is
+  the one responsible for final decisions.
+
+* ISOC - The Internet Society - The organizational home of the IETF,
+  and one that in the current IASA system assists the IETF with legal,
+  administrative, and funding tasks.
+
+* IAD - IETF Administrative Director - In the current system, the sole
+  staff member responsible for carrying out the work of the IASA.  An
+  ISOC employee.
+
+* IETF Trust - In the current system, the IETF Trust acquires,
+  maintains, and licenses intellectual and other property used in
+  connection with the administration of the IETF.  Same composition as
+  IAOC.
+
+##  Current IASA Arrangements
+
+The administrative support structure is intended to be responsive to
+the administrative needs of the IETF technical community.
+
+RFC 4071 {{RFC4071}} defines the current IETF Administrative Support
+Activity (IASA).  It is an activity housed within the Internet Society
+(ISOC), as is the rest of the IETF.  RFC 4071 defines the roles and
+responsibilities of the IETF Administrative Oversight Committee
+(IAOC), the IETF Administrative Director (IAD), and ISOC in the fiscal
+and administrative support of the IETF standards process.  It also
+defines the membership and selection rules for the IAOC.
+
+As RFC 4071 notes, IASA is distinct from IETF-related technical
+functions, such as the RFC Editor, the IANA, and the IETF standards
+process itself.  The IASA has no influence on the technical decisions
+of the IETF or on the technical contents of IETF work.
+
+Today, IASA's activities support a number of functions within the IETF
+system:
+
+* Meeting planning
+
+* Budget and financial management
+
+* Contracting with and overseeing the secretariat
+
+* Contracting with and overseeing the RFC Editor (together with the
+  IAB)
+
+* Contracting with and overseeing IANA (together with the IAB)
+
+* Legal ownership of IETF materials, domain names and copyright
+
+* Ownership of IANA-related domain names and copyright
+
+* General legal support (including topics beyond domains and IPR)
+
+* The IETF website
+
+* IETF IT services
+
+* Tooling support, maintenance, and development (together with
+  volunteers)
+
+* Meeting network support
+
+* Remote attendance support
+
+* Communications assistance for the IETF
+
+* Sponsorship and funding (together with ISOC)
 
 # Problem Statement {#problem-statement}
 
