@@ -161,10 +161,10 @@ describe the background and summarize the challenges noted in the
 community discussion.  The two sections after that ({{goals}} and
 {{legal-options}}) describe the goals and discuss the primary legal
 options for changes.  The following two sections ({{dt-rec}} and
-{{#imp-issues}}) discuss, respectively, the Design Team's rationale
-for recommending the LLC option (Option 3) and issues that will need
-to be carefully considered by a Working Group established to further
-specify the new organizational structure.
+{{imp-issues}}) discuss, respectively, the Design Team's rationale for
+recommending the LLC option (Option 3) and issues that will need to be
+carefully considered by a Working Group established to further specify
+the new organizational structure.
 
 #  Background {#background}
 
@@ -606,7 +606,11 @@ talk about board comp (?), and non-US.)
 
 ## Input from the IETF Community (AC or not to AC)
 
-# (Unsure if we'll keep anything after this)
+
+
+
+
+{::comment}
 
 # Differences from IASA 1.0
 
@@ -931,6 +935,8 @@ document its consensus, e.g., expectations about community involvement
 in NOC or tools efforts.
 
 (TODO: Document how to unwind the existing structures.)
+
+{:/comment}
 
 # Acknowledgments
 
