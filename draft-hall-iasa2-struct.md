@@ -48,6 +48,11 @@ author:
 
 informative:
   RFC4071:
+  I-D.daigle-iasa-retrospective:
+  I-D.hall-iasa20-workshops-report:
+  I-D.arkko-ietf-iasa-thoughts:
+  I-D.arkko-ietf-finance-thoughts:
+  I-D.haberman-iasa20dt-recs:
 
   ML-memo:
     title: Options for New Organization to Conduct IETF Administrative Support Activities
@@ -93,39 +98,6 @@ Corporation (LLC) of the Internet Society.
 
 # Introduction
 
-In brief, the proposal in this document is to transfer most of the
-responsibilities that RFC 4071 currently assigns to the IAD and ISOC
-to the newly created IETFAdminOrg. The IAOC would be eliminated, and
-its oversight and advising functions transferred to the IETFAdminOrg
-board and a new IETF Administrative Advisory Council ("the AC"),
-respectively. It would be the job of IETFAdminOrg to meet the
-administrative needs of the IETF. It would be the job of the AC to
-provide any advice that the IETFAdminOrg needs from an IETF community
-perspective. And it would be the job of the IETFAdminOrg board to
-ensure that IETFAdminOrg is meeting the needs of the IETF community.
-
-Eliminating the IAOC means that there will need to be another way for
-trustees to be appointed for the IETF Trust. The details of how this
-is done are for further work.
-
-The proposal in this document is depicted visually in {{Diagrams}}
-showing the IETF Trust and {{Diagrams-no-trust}} not showing the IETF
-Trust.
-
-The document does not propose any changes to anything related to the
-oversight or steering of the standards process as currently conducted
-by the IESG and IAB, the appeal chain, the confirming bodies for
-existing IETF and IAB appointments, or the IRTF.
-
-If the community decides to make changes to IASA along the lines
-sketched out in this document, normative changes to IETF processes
-will need to be documented in an RFC. Additional legal documents
-(e.g., articles of incorporation, bylaws, operating agreements)
-relating to the legal entity would provide the official, legal
-definitions of processes, roles, etc. {{transition-considerations}}
-sketches some initial thoughts about transition; publishing a detailed
-transition plan would likely also be useful.
-
 The arrangements relating to administrative support for the IETF
 (referred to as the "IETF Administrative Support Activity" (IASA)
 ({{RFC4071}}) were created more than ten years ago, when the IETF
@@ -137,68 +109,64 @@ arrangements best support the IETF in the next ten years?
 
 The system has experienced various challenges and frustrations along
 the way, for instance around meeting arrangements.  There are also
-some bigger questions about how the organizations are structured, for
+bigger questions about how the organizations are structured, for
 instance about the division of responsibilities between IETF and The
 Internet Society (ISOC).
 
 The IETF community has discussed and continues to discuss these
-topics, most recently on the "IASA 2.0" mailing list and BOFs at
-IETFs 98 and 99.  Alissa Cooper, the Chair of the IETF, convened a
-small design team to start evaluating potential options going
-forward.  The purpose of the design team is to provide material that
-informs the community discussion, both in terms of providing a bit
-more worked through solution ideas, as well as supporting analysis of
-the implications of those options.  This information, along with all
-other input provided in the discussion, hopefully helps the community
-and IETF leadership decide what next steps to take.
+topics, most recently on the "IASA 2.0" mailing list and BOFs at IETFs
+98, 99, 100, and 101.  Alissa Cooper, the Chair of the IETF, convened
+a small design team -- the authors of this document -- to start
+evaluating potential options.  The purpose of the design team is to
+provide material that informs the community discussion, both in terms
+of providing a bit more worked through solution ideas, as well as
+supporting analysis of the implications of those options.
 
 To be clear, the community is in charge of adopting any
 recommendations or making any decisions.  This draft, the output of
-the design team's considerations, has no particular official
-standing.  It should also be noted that IETF administrative matters
-have been organized jointly with ISOC, and it is important that ISOC
-continue to be involved in IETF's reorganization.
-
-The design team seeks feedback particularly on three aspects:
-
-* If the set of options outlined in this draft covers the options that
-  should be looked at.
-
-* If the analysis of the implications of the options is correct.
-
-* Which direction the community would like to take the work in
-  evolving IASA.
+the design team's considerations, merely collects the activities
+around IASA 2.0 and the Design Team's work into one place.  It should
+also be noted that IETF administrative matters have been organized
+jointly with ISOC, and it is important that ISOC continue to be
+involved in IETF's reorganization.
 
 It should of course be acknowledged that there is no perfect, or even
 great solution.  Changing the IETF organizational structure will not
 fix every problem and may bring new problems of its own.  But it seems
 that the current structure is brittle and the issues around lack of
 staff and authority, clarity, and responsibility are sufficiently
-serious to warrant exploring different options.
+serious to explore different options.
 
 This document defines the goals of the IASA 2.0 effort in terms of an
-abstract administrative structure, called IETFAdminOrg.  Then, three
-possible implementations of IETFAdminOrg are considered in the light
-of how they could be used to address the goals.  In no case does
-IETFAdminOrg have anything to do with defining, changing, or operating
-the IETF's standards process and structure (participants (not
-members), WGs, IESG and so on), which remain as they stand today.  In
-particular, none of the options lead to the IETF becoming a formal
-organisation of any sort.
+abstract administrative structure, called IETFAdminOrg (or IAO).
+Then, we discuss four possible legal structures of IETFAdminOrg and
+describe specifical how the LLC model (what this document refers to as
+Option 3) addresses the goals.  In no case does IETFAdminOrg have
+anything to do with defining, changing, or operating the IETF's
+standards process and structure (participants (not members), WGs, IESG
+and so on), which remain as they stand today.
 
 As a base for this work there was a good articulation of the set of
-problems we are facing in [I-D.hall-iasa20-workshops-report] and
-[I-D.daigle-iasa-retrospective].  The community discussion seems have
-indicated also some of the outcome properties that are expected.
+problems we are facing after an initial set of virtual workshops in
+early 2017 in [I-D.hall-iasa20-workshops-report] and a number of
+drafts describing problems from specific perspectives:
+[I-D.daigle-iasa-retrospective], [I-D.arkko-ietf-iasa-thoughts],
+[I-D.arkko-ietf-finance-thoughts]. The Design Team specified the types
+of organizational models and recommendations in
+[I-D.haberman-iasa20dt-recs], and a good deal of that content has been
+incorporated into this document.
 
-The next two sections (Section 2 and Section 3) describe the
-background and summarize the challenges noted in the community
-discussion.  The two sections after that (Section 4 and Section 5)
-describe the goals and primary options for changes.  The following
-two sections (Section 6 and Section 7) focus on analysis of the
-different options along with conclusions.
+The next two sections ({{background}} and {{problem-statement}})
+describe the background and summarize the challenges noted in the
+community discussion.  The two sections after that ({{goals}} and
+{{legal-options}}) describe the goals and discuss the primary legal
+options for changes.  The following two sections ({{dt-rec}} and
+{{#imp-issues}}) discuss, respectively, the Design Team's rationale
+for recommending the LLC option (Option 3) and issues that will need
+to be carefully considered by a Working Group established to further
+specify the new organizational structure.
 
-#  Background
+#  Background {#background}
 
 ##  Terminology
 
@@ -493,7 +461,7 @@ activities work -- which is also causing expenses to grow.
 IETFAdminOrg must have appropriate authority and tools to adapt the
 funding model of the IETF to evolving realities.
 
-# Goals
+# Goals {#goals}
 
 The IASA redesign effort needs to address the main issues listed above
 in {problem-statement}.  More specifically, the future organizational
@@ -618,13 +586,13 @@ In this section, we summarize those options
 
 ## Option 4 - Activity of Internet Society
 
-# Design Team Recommendation (Option 3)
+# Design Team Recommendation (Option 3) {#dt-rec}
 
 (Why the Design Team recommends LLC)
 
 (Possibly have a table that maps goals into the LLC)
 
-# Important Issues from the IETF Community
+# Important Issues from the IETF Community {#imp-issues}
 
 (Surface some of the discussion from the IASA20 BOF at IETF 101)
 
