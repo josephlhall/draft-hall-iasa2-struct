@@ -48,7 +48,7 @@ author:
 
 informative:
   RFC4071:
-  
+
   ML-memo:
     title: Options for New Organization to Conduct IETF Administrative Support Activities
     author:
@@ -82,11 +82,11 @@ begin the process of changing the IETF administrative structure,
 starting with a set of virtual workshops to get input from the IETF
 community, and then encompassing a series of BOF sessions at IETFs to
 define the problem, develop requirements, explore potential options
-for changes, and a Design Team that would make recommendations.  The
-purpose of this document is to collect in one place all of the various
-materials that have lead up to the Design Team recommending that IETF
-be a Disregarded Limited Liability Corporation of the Internet
-Society.
+for changes, and a Design Team -- the authors of this document -- that
+would make recommendations.  The purpose of this document is to
+collect all of the various materials that have lead up to the Design
+Team recommendation that IETF be a Disregarded Limited Liability
+Corporation (LLC) of the Internet Society.
 
 
 --- middle
