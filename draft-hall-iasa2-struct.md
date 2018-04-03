@@ -104,8 +104,7 @@ The arrangements relating to administrative support for the IETF
 initially took charge of its own administration.  The arrangements
 have served the IETF reasonably well, but there's been considerable
 change in the necessary tasks, in the world around us, and our own
-expectations since the creation of the IASA.  What administrative
-arrangements best support the IETF in the next ten years?
+expectations since the creation of the IASA.
 
 The system has experienced various challenges and frustrations along
 the way, for instance around meeting arrangements.  There are also
@@ -116,7 +115,7 @@ Internet Society (ISOC).
 The IETF community has discussed and continues to discuss these
 topics, most recently on the "IASA 2.0" mailing list and BOFs at IETFs
 98, 99, 100, and 101.  Alissa Cooper, the Chair of the IETF, convened
-a small design team -- the authors of this document -- to start
+a small design team (the authors of this document) in 2017 to start
 evaluating potential options.  The purpose of the design team is to
 provide material that informs the community discussion, both in terms
 of providing a bit more worked through solution ideas, as well as
@@ -137,11 +136,11 @@ that the current structure is brittle and the issues around lack of
 staff and authority, clarity, and responsibility are sufficiently
 serious to explore different options.
 
-This document defines the goals of the IASA 2.0 effort in terms of an
+This document defines a problem statement and a set of goals for the IASA 2.0 effort in terms of an
 abstract administrative structure, called IETFAdminOrg (or IAO).
-Then, we discuss four possible legal structures of IETFAdminOrg and
-describe specifical how the LLC model (what this document refers to as
-Option 3) addresses the goals.  In no case does IETFAdminOrg have
+Then, it discusses four possible legal structures of IETFAdminOrg and
+describes specifically how the LLC model (what this document refers to as
+Option 3) addresses the goals.  In no case does IAO have
 anything to do with defining, changing, or operating the IETF's
 standards process and structure (participants (not members), WGs, IESG
 and so on), which remain as they stand today.
