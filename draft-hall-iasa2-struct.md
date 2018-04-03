@@ -85,7 +85,7 @@ have evolved in ways that require changes to its administrative
 structure.  The IETF Chair started an effort in November of 2016 to
 begin the process of changing the IETF administrative structure,
 starting with a set of virtual workshops to get input from the IETF
-community, and then encompassing a series of BOF sessions at IETFs to
+community, and then encompassing a series of BOF sessions at IETF meetings to
 define the problem, develop requirements, explore potential options
 for changes, and a Design Team -- the authors of this document -- that
 would make recommendations.  The purpose of this document is to
