@@ -578,39 +578,116 @@ The Design Team working with the IETF Chair asked the Internet
 Society's tax law attorneys to outline a series of options based on
 the requirements developed in this process. The result is a memorandum
 {{ML-memo}} that outlines the various options and their trade-offs.
-In this section, we summarize those options
+In this section, we summarize those options.
 
 ## Option 1 - Independent 501(c)(3)
 
+On one end of the spectrum is complete independence from ISOC. The
+natural choice for this would be for IETF to incorporate as an
+independent 501(c)(3) organization. In this case, all functions of IAO
+would be legally independent of ISOC, including board appointments,
+hiring and firing, etc. IAO would face increased one-time and ongoing
+adminstrative complexities, including maintenance of tax-exempt
+status, separate audits, financial statements, and tax filing. ISOC
+could continue to provide funding to the IAO and ISOC could set the
+terms of funding through a grant agreement or contract.
+
 ## Option 2 - Type 1 Supporting Organization
+
+IAO could be set up as a Type 1 Supporting Organization of ISOC. In
+this model, IAO would be set up a 501(c)(3) organization but then list
+ISOC as the named supported organization, essentially specifying that
+it's a separate entity but one that works to support ISOC's
+mission. In this model ISOC would have to be the sole controlling
+parent entity, with ISOC retaining formal control of the IAO
+Board. This would require incorporation as a non-profit, filing for
+federal and state tax exemption, filing separate taxes, but audits and
+financial statements would be consolidated with those of ISOC.
 
 ## Option 3 - Disregarded LLC
 
+IAO could form a limited liability corporation (LLC) that is a
+disregarded entity of ISOC, essentially treating it as a branch or
+division of ISOC for most tax purposes. In contrast to the previous
+option, ISOC in this case could delegate the appointment of the IAO
+Board to a nominating committee within the IAO. This option would not
+require tax exemption filing, filing separate taxes, or separate
+audits or financial statements.
+
 ## Option 4 - Activity of Internet Society
+
+IASA is currently an activity of ISOC, so this option was included in
+the analysis to give a baseline for comparison of the other options.
 
 # Design Team Recommendation (Option 3) {#dt-rec}
 
-(Why the Design Team recommends LLC)
+After discussion and consideration, the design team recommended at the
+IASA20 BOF sesstion at IETF 101 that we pursue Option 3, the
+disregarded LLC option. In our view, this option gives increased
+independence without the full adminstrative complexity of the other
+options. Notably, this option does not require incorporating as a
+501(c)(3) and filing for state and federal tax exempt status, and it
+allows IETF to continue to benefit from ISOC's tax exempt status and
+financial rhythms. IAO will be a legal entity that can have and
+control its own bank accounts and sign contracts without involving
+ISOC. Crucially, this option allows the operating agreement to specify
+that the board can be appointed by delegation to a committee (likely
+the IAB) of IETF.
 
-(Possibly have a table that maps goals into the LLC)
+(Possibly have a table that maps goals into the LLC?)
 
-# Important Issues from the IETF Community {#imp-issues}
-
-(Surface some of the discussion from the IASA20 BOF at IETF 101)
-
-(get the transparency text in here, talk about what the AC could do
-and what functions IAOC performs now that we wouldn't want to lose,
-talk about board comp (?), and non-US.)
+# Important Remaining Issues {#imp-issues}
 
 ## Transparency
 
+The issue of increased transparency was important throughout the IASA
+2.0 process, with little to no dissent.  It was recognized that there
+will naturally be a confidentiality requirement about hotel
+contracting, personnel matters, and other narrow areas.  At IETF 101
+in the IASA 2.0 BOF, the design team proposed the following default
+transaprency rule:
+
+> Whatever doesn't have a specific justification for being kept
+  confidential, should be made public. There must exist a public list
+  of confidential items, describing the nature of the information and
+  the reason for confidentiality.
+
 ## IAO Board
 
-## Input from the IETF Community (AC or not to AC)
+The composition of the IAO Board requires careful thought and
+deliberation. An earlier draft from the design team discussed a small
+5-member board, and list discussion saw proposals that included 7 and
+9 members, with some mix of the IETF Chair, IETF-appointed ISOC Board
+members, NOMCOM-appointed members. Discussion of composition, term
+lengths, types of experience needed, liasons, officers, are all
+details the design team will leave in the hands of a chartered IETF
+working group in the near future.
 
+## Input from the IETF Community
 
+The current IAOC also involves a structure of 7 substantive committees
+(Finance, Legal, Meetings, Technology, RFPs, Sponsorship, and Venue
+Review) where IETF community volunteers can contribute to the
+administrative work of the IETF. Under a new structure, much of this
+activity will be performed by paid IAO staff, potentially limiting the
+nature and quantity of feedback that the IAO gets from the IETF
+community.  One option discussed heavily and mostly rejected was the
+potential notion of an Advisory Council, that could be a venue for
+directly marshalling community feedback into the IAO structure.
 
+It is unclear what kind of feedback mechanism -- other than email sent
+in response to an ietf@ietf.org mailing list post -- would be
+important to ensure that IAO has a good, ongoing sense of the
+community, so we leave this to future deliberation.
 
+## Non-US incorporation
+
+Finally, the community rightly challenged the design team in terms of
+exploring organizational options in non-US venues, e.g., non-profit
+incorporation in Europe or Asia.  However, given that ISOC even under
+a complete independence model will still need to be heavily involved
+in the business of IAO, there were no clear options that seemed
+strictly better given the problem statement and goals outlined above.
 
 {::comment}
 
