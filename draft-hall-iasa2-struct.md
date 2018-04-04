@@ -584,7 +584,10 @@ In this section, we summarize those options.
 
 On one end of the spectrum is complete independence from ISOC. The
 natural choice for this would be for IETF to incorporate as an
-independent 501(c)(3) organization. In this case, all functions of IAO
+independent organization, incorporating as a non-profit in a
+particular state and then applying at the federal level to the IRS for
+tax exemption to achieve 501(c)(3) status.
+In this case, all functions of IAO
 would be legally independent of ISOC, including board appointments,
 hiring and firing, etc. IAO would face increased one-time and ongoing
 adminstrative complexities, including maintenance of tax-exempt
@@ -606,9 +609,14 @@ financial statements would be consolidated with those of ISOC.
 
 ## Option 3 - Disregarded LLC
 
-IAO could form a Limited Liability Company (LLC) that is a
-disregarded entity of ISOC, essentially treating it as a branch or
-division of ISOC for most tax purposes. In contrast to the previous
+IAO could form a Limited Liability Company (LLC) that is a disregarded
+entity of ISOC, essentially treating it as a branch or division of
+ISOC for most tax purposes. The term "disregarded" here means that the
+LLC is disregarded by ISOC for some purposes; that is, while ISOC's
+non-profit status and tax exemption applies downward to the LLC, legal
+liability and financial impacts do not apply upwards from the LLC to
+ISOC.
+In contrast to the previous
 option, ISOC in this case could delegate the appointment of the IAO
 Board to a nominating committee within the IAO. This option would not
 require tax exemption filing, filing separate taxes, or separate
@@ -622,13 +630,17 @@ the analysis to give a baseline for comparison of the other options.
 # Design Team Recommendation (Option 3) {#dt-rec}
 
 After discussion and consideration, the design team recommended at the
-IASA20 BOF sesstion at IETF 101 that we pursue Option 3, the
-disregarded LLC option. In our view, this option gives increased
-independence without the full adminstrative complexity of the other
-options. Notably, this option does not require incorporating as a
-501(c)(3) and filing for state and federal tax exempt status, and it
+IASA 2.0 BOF sesstion at IETF 101 that we pursue Option 3, the
+disregarded LLC option.
+
+In our view, this option gives increased independence without the full
+adminstrative complexity of the other options. Notably, this option is
+easier to set up than the non-profit corporation options and also has
+simpler annual reporting requirements; that is, the LLC option does
+not require state-level incorporation, does not require filing for
+state and federal tax exempt status, and it
 allows IETF to continue to benefit from ISOC's tax exempt status and
-financial rhythms. IAO will be a legal entity that can have and
+financial reporting and auditing. IAO will be a legal entity that can have and
 control its own bank accounts and sign contracts without involving
 ISOC. Crucially, this option allows the operating agreement to specify
 that the board can be appointed by delegation to a committee (likely
