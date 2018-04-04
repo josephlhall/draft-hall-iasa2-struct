@@ -578,7 +578,8 @@ The Design Team working with the IETF Chair asked the Internet
 Society's tax law attorneys to outline a series of options based on
 the requirements developed in this process. The result is a memorandum
 {{ML-memo}} that outlines the various options and their trade-offs.
-In this section, we summarize those options.
+In this section, we summarize those options. We also include a tabular
+summary for each option of the legal analysis from Morgan Lewis.
 
 ## Option 1 - Independent 501(c)(3)
 
@@ -586,14 +587,43 @@ On one end of the spectrum is complete independence from ISOC. The
 natural choice for this would be for IETF to incorporate as an
 independent organization, incorporating as a non-profit in a
 particular state and then applying at the federal level to the IRS for
-tax exemption to achieve 501(c)(3) status.
-In this case, all functions of IAO
-would be legally independent of ISOC, including board appointments,
-hiring and firing, etc. IAO would face increased one-time and ongoing
-adminstrative complexities, including maintenance of tax-exempt
-status, separate audits, financial statements, and tax filing. ISOC
-could continue to provide funding to the IAO and ISOC could set the
-terms of funding through a grant agreement or contract.
+tax exemption to achieve 501(c)(3) status.  In this case, all
+functions of IAO would be legally independent of ISOC, including board
+appointments, hiring and firing, etc. IAO would face increased
+one-time and ongoing adminstrative complexities, including maintenance
+of tax-exempt status, separate audits, financial statements, and tax
+filing. ISOC could continue to provide funding to the IAO and ISOC
+could set the terms of funding through a grant agreement or contract.
+
+|-------------------------------------------+-----|
+| Governance: 501(c)(3)                     |     |
+|-------------------------------------------+-----|
+| Is ISOC involved in appointing IAO Board? | No  |
+|-------------------------------------------+-----|
+| Can IAO Board hire and fire the IAO ED?   | Yes |
+|-------------------------------------------+-----|
+| ISOC liable for IAO debts and obligations?| No  |
+|-------------------------------------------+-----|
+
+|--------------------------------------------------+-----|
+| Finance and Fundraising: 501(c)(3)               |     |
+|--------------------------------------------------+-----|
+| Can IAO have separate bank account from ISOC?    | Yes |
+|--------------------------------------------------+-----|
+| Can donors write checks to IAO?                  | Yes |
+|--------------------------------------------------+-----|
+| IAO needs to maintain its own non-profit status? | Yes |
+|--------------------------------------------------+-----|
+
+|-------------------------------------------------------+-----|
+| Administration/Staffing: 501(c)(3)                    |     |
+|-------------------------------------------------------+-----|
+| Would IAO need to conduct its own audit?              | Yes |
+|-------------------------------------------------------+-----|
+| Would IAO need to file its own tax return?            | Yes |
+|-------------------------------------------------------+-----|
+| IAO ED can hire/fire, contract without ISOC approval? | Yes |
+|-------------------------------------------------------+-----|
 
 ## Option 2 - Type 1 Supporting Organization
 
@@ -607,6 +637,39 @@ Board. This would require incorporation as a non-profit, filing for
 federal and state tax exemption, filing separate taxes, but audits and
 financial statements would be consolidated with those of ISOC.
 
+|-------------------------------------------+---------|
+| Governance: Type 1 Supporting Org.        |         |
+|-------------------------------------------+---------|
+| Is ISOC involved in appointing IAO Board? | Yes(1)  |
+|-------------------------------------------+---------|
+| Can IAO Board hire and fire the IAO ED?   | Yes     |
+|-------------------------------------------+---------|
+| ISOC liable for IAO debts and obligations?| No      |
+|-------------------------------------------+---------|
+
+|--------------------------------------------------+-----|
+| Finance and Fundraising: Type 1 Supporting Org.  |     |
+|--------------------------------------------------+-----|
+| Can IAO have separate bank account from ISOC?    | Yes |
+|--------------------------------------------------+-----|
+| Can donors write checks to IAO?                  | Yes |
+|--------------------------------------------------+-----|
+| IAO needs to maintain its own non-profit status? | Yes |
+|--------------------------------------------------+-----|
+
+|-------------------------------------------------------+-----|
+| Administration/Staffing: Type 1 Supporting Org.       |     |
+|-------------------------------------------------------+-----|
+| Would IAO need to conduct its own audit?              | Yes |
+|-------------------------------------------------------+-----|
+| Would IAO need to file its own tax return?            | Yes |
+|-------------------------------------------------------+-----|
+| IAO ED can hire/fire, contract without ISOC approval? | Yes |
+|-------------------------------------------------------+-----|
+
+(1) ISOC would be required to appoint majority of the IAO Board,
+perhaps upon IETF recommendations.
+
 ## Option 3 - Disregarded LLC
 
 IAO could form a Limited Liability Company (LLC) that is a disregarded
@@ -615,17 +678,78 @@ ISOC for most tax purposes. The term "disregarded" here means that the
 LLC is disregarded by ISOC for some purposes; that is, while ISOC's
 non-profit status and tax exemption applies downward to the LLC, legal
 liability and financial impacts do not apply upwards from the LLC to
-ISOC.
-In contrast to the previous
-option, ISOC in this case could delegate the appointment of the IAO
-Board to a nominating committee within the IAO. This option would not
-require tax exemption filing, filing separate taxes, or separate
-audits or financial statements.
+ISOC.  In contrast to the previous option, ISOC in this case could
+delegate the appointment of the IAO Board to a nominating committee
+within the IAO. This option would not require tax exemption filing,
+filing separate taxes, or separate audits or financial statements.
+
+|-------------------------------------------+-------|
+| Governance: Disregarded LLC               +       |
+|-------------------------------------------+-------|
+| Is ISOC involved in appointing IAO Board? | No(2) |
+|-------------------------------------------+-------|
+| Can IAO Board hire and fire the IAO ED?   | Yes   |
+|-------------------------------------------+-------|
+| ISOC liable for IAO debts and obligations?| No    |
+|-------------------------------------------+-------|
+
+|--------------------------------------------------+-----|
+| Finance and Fundraising: Disregarded LLC         |     |
+|--------------------------------------------------+-----|
+| Can IAO have separate bank account from ISOC?    | Yes |
+|--------------------------------------------------+-----|
+| Can donors write checks to IAO?                  | Yes |
+|--------------------------------------------------+-----|
+| IAO needs to maintain its own non-profit status? | No  |
+|--------------------------------------------------+-----|
+
+|-------------------------------------------------------+-----|
+| Administration/Staffing: Disregarded LLC              |     |
+|-------------------------------------------------------+-----|
+| Would IAO need to conduct its own audit?              | No  |
+|-------------------------------------------------------+-----|
+| Would IAO need to file its own tax return?            | No  |
+|-------------------------------------------------------+-----|
+| IAO ED can hire/fire, contract without ISOC approval? | Yes |
+|-------------------------------------------------------+-----|
+
+(2) ISOC can delegate responsibility for appointing all IAO Board
+members to IETF bodies, but must retain ultimate control of the LLC.
 
 ## Option 4 - Activity of Internet Society
 
 IASA is currently an activity of ISOC, so this option was included in
 the analysis to give a baseline for comparison of the other options.
+
+|-------------------------------------------+----------------|
+| Governance: Activity of ISOC              |                |
+|-------------------------------------------+----------------|
+| Is ISOC involved in appointing IAO Board? | Yes, as today  |
+|-------------------------------------------+----------------|
+| Can IAO Board hire and fire the IAO ED?   | No             |
+|-------------------------------------------+----------------|
+| ISOC liable for IAO debts and obligations?| Yes            |
+|-------------------------------------------+----------------|
+
+|--------------------------------------------------+-----|
+| Finance and Fundraising: Activity of ISOC        |     |
+|--------------------------------------------------+-----|
+| Can IAO have separate bank account from ISOC?    | Yes |
+|--------------------------------------------------+-----|
+| Can donors write checks to IAO?                  | No  |
+|--------------------------------------------------+-----|
+| IAO needs to maintain its own non-profit status? | No  |
+|--------------------------------------------------+-----|
+
+|-------------------------------------------------------+-----|
+| Administration/Staffing: Activity of ISOC             |     |
+|-------------------------------------------------------+-----|
+| Would IAO need to conduct its own audit?              | No  |
+|-------------------------------------------------------+-----|
+| Would IAO need to file its own tax return?            | No  |
+|-------------------------------------------------------+-----|
+| IAO ED can hire/fire, contract without ISOC approval? | No |
+|-------------------------------------------------------+-----|
 
 # Design Team Recommendation (Option 3) {#dt-rec}
 
@@ -638,15 +762,13 @@ adminstrative complexity of the other options. Notably, this option is
 easier to set up than the non-profit corporation options and also has
 simpler annual reporting requirements; that is, the LLC option does
 not require state-level incorporation, does not require filing for
-state and federal tax exempt status, and it
-allows IETF to continue to benefit from ISOC's tax exempt status and
-financial reporting and auditing. IAO will be a legal entity that can have and
-control its own bank accounts and sign contracts without involving
-ISOC. Crucially, this option allows the operating agreement to specify
-that the board can be appointed by delegation to a committee (likely
-the IAB) of IETF.
-
-(Possibly have a table that maps goals into the LLC?)
+state and federal tax exempt status, and it allows IETF to continue to
+benefit from ISOC's tax exempt status and financial reporting and
+auditing. IAO will be a legal entity that can have and control its own
+bank accounts and sign contracts without involving ISOC. Crucially,
+this option allows the operating agreement to specify that the board
+can be appointed by delegation to a committee (likely the IAB) of
+IETF.
 
 # Important Remaining Issues {#imp-issues}
 
