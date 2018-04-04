@@ -91,7 +91,7 @@ for changes, and a Design Team -- the authors of this document -- that
 would make recommendations.  The purpose of this document is to
 collect all of the various materials that have lead up to the Design
 Team recommendation that IETF be a Disregarded Limited Liability
-Corporation (LLC) of the Internet Society.
+Company (LLC) of the Internet Society.
 
 
 --- middle
@@ -606,7 +606,7 @@ financial statements would be consolidated with those of ISOC.
 
 ## Option 3 - Disregarded LLC
 
-IAO could form a limited liability corporation (LLC) that is a
+IAO could form a Limited Liability Company (LLC) that is a
 disregarded entity of ISOC, essentially treating it as a branch or
 division of ISOC for most tax purposes. In contrast to the previous
 option, ISOC in this case could delegate the appointment of the IAO
