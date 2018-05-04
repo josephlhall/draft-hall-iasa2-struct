@@ -233,32 +233,3 @@ At the same time, there may be areas where the IETF community needs to document 
 # Acknowledgments
 
 Thanks to Jari Arkko, Richard Barnes, Alissa Cooper, Brian Haberman, and Sean Turner for discussions of possible structures, and to the attorneys of Morgan Lewis for their advice on possible legal impacts.
-
-# Open Items
-
-* Review and discuss the Staffing section
-
-* Changed from 5 to 7 board members per community feedback. Are the composition and selection sections and aligned with that? Does it make sense? Do we really, really need 7 rather than 5? Or some other number?
-
-* Fix capitalization of Board and Board of Trustees to leading caps.
-
-* Discuss term lengths and term limits (if any).
-
-* Does the secretary need to be a Trustee? This was no always the case on the ISOC board and worked quite successfully. Any other inital roles that must be filled?
-
-* What name shall be selected in place of the placeholder "IETFAdminOrg"? Some options may include, in no particular order: 
-- Internet Administrative Support Board (IASB)
-- Internet Administration Support Board (IASB)
-- Internet Support Board (ISB)
-- Internet Administration Functions Board (IAFB)
-- Internet Administrative Functions Board (IAFB)
-- IETF Administrative Oversight Board (IAOB)
-- Internet Organizations Oversight Board (IOOB)
-- Internet Standards Board (ISB)
-- Internet Standards Support Board (ISSB)
-- Internet Standards Adminstration Board (ISAB)
-- Internet Standards Administrative Board (ISAB)
-- Open Internet Standards Board (OISB)
-- (more suggestions needed)
-
-* Who develops the annual budget? The Executive Director, the IETFAdminOrg board, the IETF chair, or some combination? Perhaps it is the Treasurer of the IETFAdminOrg board in concert with all of those people?
