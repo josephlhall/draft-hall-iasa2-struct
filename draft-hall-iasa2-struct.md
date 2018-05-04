@@ -63,23 +63,25 @@ The IETF Administrative Support Activity (IASA) was originally established in 20
 
 The IETF Administrative Support Activity (IASA) was originally established in 2005.  In the 13 years from 2005 to 2018, the needs of the IETF have evolved in ways that require changes to its administrative structure.  The purpose of this document is to outline a proposed new "IASA 2.0" structure. The proposal is for the work of the IETF's administrative and fundraising tasks to be conducted by a new administrative organization, the IETF Adminstration Limited Liability Corporation ("LLC"). Under the proposal, the Internet Administrative Oversight Committee (IAOC) will be eliminated, and its oversight and advising functions transferred to the new LLC Board. This document explores all of the details involved in the proposal.
 
-{{?I-D.haberman-iasa20dt-recs}} discusses the challenges facing the current structure as well as several options for reorganizing the IETF's administration under different legal structures. {{ML-memo}} further outlines the legal details of various options, including three options -- an independent 501(c)(3) organization, a 501(c)(3) Type 1 supporting organization of ISOC, and an LLC that is a disregarded entity of ISOC -- that would entail setting up a new organization to house the administration of the IETF. This document outlines one way that such an organization could be structured and describes how the organization could fit together with existing and new IETF community structures. In this document the new administrative organization is known as IETFAdminOrg.
+{{?I-D.haberman-iasa20dt-recs}} discusses the challenges facing the current structure as well as several options for reorganizing the IETF's administration under different legal structures. This document outlines how such an organization will be structured and describes how the organization will fit together with existing and new IETF community structures.
 
-This document outlines some details of what a potential "IASA 2.0" arrangement. Some of the details of the organizational structure are dependent on the choice of legal structure, but others are not. The point of this document is to solicit community input about various organizational approaches to solving some of the challenges identified in {{?I-D.haberman-iasa20dt-recs}}. Ultimately, if the IETF community decides to make changes to IASA, those changes will subsequently be documented in a replacement of RFC 4071, RFC 4371, and update of BCP 101.
+This document outlines some details of what a potential "IASA 2.0" arrangement. Some of the details of the organizational structure are dependent on the choice of legal structure, but others are not. The point of this document is to solicit community input about how to address the challenges identified in {{?I-D.haberman-iasa20dt-recs}}. Ultimately, if the IETF community decides to make changes to IASA, those changes will subsequently be documented in a replacement of RFC 4071, RFC 4371, and update of BCP 101.
 
 The proposal in this document is to transfer most of the responsibilities that RFC 4071 currently assigns to the Internet Administrative Director (IAD) and Internet Sociecty (ISOC) to the newly created IETFAdminOrg. The IAOC would be eliminated, and its oversight and advising functions transferred to the LLC Board. It would be the job of LLC to meet the administrative needs of the IETF and ensure that LLC and IASA 2.0 is meeting the needs of the IETF community.
 
 Eliminating the IAOC means that there will need to be another way for trustees to be appointed for the IETF Trust. The details of how this is done are outlined in (PLACEHOLDER-FILL-IN-WITH-I-D-NAME-SOON).
 
-The proposal in this document is depicted visually in {{Diagrams}} showing the IETF Trust and {{Diagrams-no-trust}} not showing the IETF Trust.
+The proposal in this document is depicted visually in {{Diagrams}} showing the IETF Trust and {{Diagrams-no-trust}} not showing the IETF Trust. (THIS SENTENCE NEEDS TO BE UPDATED WITH A NEW DIAGRAM)
 
 
 # Scope Limitation
 
-The document does not propose any changes to anything related to the oversight or steering of the standards process as currently conducted by the Internet Engineering Steering Group (IESG) and Internet Architecture Board (IAB), the appeals chain, the confirming bodies for existing IETF and IAB appointments, or the Internet Research Task Force (IRTF).
+The document does not propose any changes to anything related to the oversight or steering of the standards process as currently conducted by the Internet Engineering Steering Group (IESG) and Internet Architecture Board (IAB), the appeals chain, the confirming bodies for existing IETF and IAB appointments, the Internet Research Task Force (IRTF), or ISOC's memberships in or support of other organizations.
 
 If the community decides to make changes to IASA along the lines sketched out in this document, normative changes to IETF processes will need to be documented in an RFC. Additional legal documents (e.g., articles of incorporation, bylaws, operating agreements) relating to the legal entity would provide the official, legal definitions of processes, roles, etc. {{transition-considerations}} sketches some initial thoughts about transition; publishing a detailed transition plan would likely also be useful.
 
+## Operating Agreement with the Internet Society
+The Operating Agreement (OA) is also out of scope for this document. The OA will be developed between the IETF and ISOC and is expected to include all critical terms, while still enabling maximum unilateral flexibility for the LLC Board. Thus, it is anticipated that the OA will include minimal details about how the Board manages itself or manages LLC staff, so that the LLC Board has flexibility to make changes without amending the OA. The LLC Board can independently develop policy or procedures documents that fill gaps. 
 
 # Key Differences from the IASA 1.0 Structure
 
@@ -96,7 +98,7 @@ If the community decides to make changes to IASA along the lines sketched out in
 
 The LLC will be established to provide administrative support to the IETF. It will have no authority over the standards development activities of the IETF.
 
-The proposed responsibilities of the LLC are listed below. Whether these responsibilities will be carried out by staff, contractors, community volunteers, or a mix will be at the discretion of the Executive Director and their staff (see {{staffing}}). The responsibilities are:
+The proposed responsibilities of the LLC, and thus the LLC Board, are listed below. Whether these responsibilities will be carried out by staff, contractors, community volunteers, or a mix will be at the discretion of the Executive Director and their staff (see {{staffing}}). The responsibilities are:
 
 * Operations. The LLC is responsible for supporting the ongoing operations of the IETF, including meetings and non-meeting activities.
 
@@ -121,11 +123,17 @@ The transparency and responsiveness principles are designed to address the conce
 
 The LLC Board will be responsible for conducting oversight of LLC's execution of its responsibilities, as described in {{responsibilities}}.  This includes the responsibility to:
 
-* manage the employment of the role of the Executive Director of LLC, including tasks such as hiring, termination, performance review, and the award of compensation and other requisite employment benefits;
+* provide strategic direction for the LLC and to the Executive Director; 
 
-* provide strategic direction to the Executive Director; 
+* hire, supervise, and manage the employment of the role of the Executive Director of LLC, including tasks such as hiring, termination, performance review, amendment of employment terms, the award of compensation and other requisite employment benefits or decisions;
 
-* exercise a fiduciary duty to ensure that LLC has the financial and business stability that it needs to be able to meet the needs of the IETF, including approving an annual budget;
+* adopting any employee benefit plans;
+
+* approving any changes to the LLC governance structure, incurring any debt;
+
+* exercise a fiduciary duty to ensure that LLC has the financial and business stability that it needs to be able to meet the needs of the IETF, including adopting an annual budget;
+
+* approving or entering into agreements that that meet a significant materiality threshold (TBD later by the LLC Board);
 
 * exercise a legal duty to ensure that the LLC complies with any applicable tax and other laws;
 
@@ -175,13 +183,13 @@ The options for the initial formation for the Board include:
 
 * The Board of Trustees of the LLC shall be comprised initially of seven people. For the initial formation, since no Board of Trustees is extant, the three trustees that would otherwise be selected by the Board will instead be selected by the IETF NomCom. The initial term of those three trustees shall be one year.
 
-Following the initial formation of the LLC Board, and at each annual meeting of the LLC Board, a Trustee shall be appointed to serve in each of the following roles:
+Following the initial formation of the LLC Board, and at each annual meeting of the LLC Board, they shall select by a majority vote of the LLC Board someone serve in each of the following roles:
 
-* Board Chair
+* Board Chair, from among the Trustees
 
-* Secretary
+* Secretary, from among the Trustees or optionally the Executive Director, a member of their team, or some other individual
 
-* Treasurer
+* Treasurer, from among the Trustees
 
 The Board shall also form committees of the Board of Trustees as they see fit, and/or define other roles for Trustees.
 
