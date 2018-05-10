@@ -131,7 +131,7 @@ The LLC Board will be responsible for conducting oversight of LLC's execution of
 
 * approving any changes to the LLC governance structure;
 
-* exercising a fiduciary duty to ensure that LLC has the financial and business stability that it needs to be able to meet the needs of the IETF, including adopting an annual budget, and as necessary incurring any debt or using making other financial arrangements;
+* exercising a fiduciary duty to ensure that LLC has the financial and business stability that it needs to be able to meet the needs of the IETF, including adopting an annual budget, and as necessary incurring any debt or making other financial arrangements;
 
 * approving or entering into agreements that that meet a significant materiality threshold (NOTE: TBD later by the LLC Board);
 
