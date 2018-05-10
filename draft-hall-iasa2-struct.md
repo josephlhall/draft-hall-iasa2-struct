@@ -171,7 +171,7 @@ The Board is smaller than the current IAOC and the other leadership bodies of th
 
 This board structure, together with the staffing proposal below, is designed to overcome the challenges described in Section 3.1.4 of {{?I-D.haberman-iasa20dt-recs}} concerning oversight. It establishes a clear line of oversight over staff performance: the Board oversees the Executive Director's performance and has actual legal authority to remove a non-performing Executive Director. The Executive Director is responsible for the performance of the LLC.
 
-Finally, the board would be expected to operate transparently, to further address the concern raised in Section 3.3 of {{?I-D.haberman-iasa20dt-recs}}. As with the LLC, the Board would need to establish how it would fulfill this commitment and how and when it would inform the IETF community about its actions.  These commitments and procedures embodying them could be encoded in the board's governing documents (e.g., bylaws).
+Finally, the board would be expected to operate transparently, to further address the concern raised in Section 3.3 of {{?I-D.haberman-iasa20dt-recs}}. The default transparency rule arrived at during the IASA 2.0 design process is detailed above in in {{responsibilities}}. As with the LLC, the Board would need to establish how it would implement this commitment.
 
 Note also that the Board formation rules of LLC would be defined in its corporate documents, e.g., its articles of incorporation and bylaws.
 
