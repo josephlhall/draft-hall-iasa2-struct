@@ -78,7 +78,7 @@ The proposal in this document is depicted visually in {{Diagrams}} showing the I
 
 The document does not propose any changes to anything related to the oversight or steering of the standards process as currently conducted by the Internet Engineering Steering Group (IESG) and Internet Architecture Board (IAB), the appeals chain, the confirming bodies for existing IETF and IAB appointments, the Internet Research Task Force (IRTF), or ISOC's memberships in or support of other organizations.
 
-If the community decides to make changes to IASA along the lines sketched out in this document, normative changes to IETF processes will need to be documented in an RFC. Additional legal documents (e.g., articles of incorporation, bylaws, operating agreements) relating to the legal entity would provide the official, legal definitions of processes, roles, etc. {{transition-considerations}} sketches some initial thoughts about transition; publishing a detailed transition plan would likely also be useful.
+If the community decides to make changes to IASA along the lines sketched out in this document, normative changes to IETF processes will need to be documented in an RFC. Additional legal documents (e.g., certificate of formation, operating agreement, transition and shared services agreement) relating to the legal entity would provide the official, legal definitions of processes, roles, etc. {{transition-considerations}} sketches some initial thoughts about transition; publishing a detailed transition plan would likely also be useful.
 
 ## Operating Agreement with the Internet Society
 The Operating Agreement (OA) is also out of scope for this document. The OA will be developed between the IETF and ISOC and is expected to include all critical terms, while still enabling maximum unilateral flexibility for the LLC Board. Thus, it is anticipated that the OA will include only basic details about how the Board manages itself or manages LLC staff, so that the LLC Board has flexibility to make changes without amending the OA. The LLC Board can independently develop policy or procedures documents that fill gaps.
@@ -89,7 +89,7 @@ The Operating Agreement (OA) is also out of scope for this document. The OA will
 
 * The ISOC and IAD responsibilities described in RFC 4071 are assigned to a new organization, IETF Administration LLC.
 
-* The board of directors of the LLC will assume the oversight responsibilities of the IAOC.
+* The board of the LLC -- formerly a multi-member "manager" of the LLC on behalf of ISOC -- will assume the oversight responsibilities of the IAOC.
 
 
 # IETF Administration LLC
