@@ -94,7 +94,7 @@ The Operating Agreement (OA) is also out of scope for this document. The OA will
 
 # IETF Administration LLC
 
-## General LLC Responsibilities
+## General LLC Responsibilities {#responsibilities}
 
 The LLC will be established to provide administrative support to the IETF. It will have no authority over the standards development activities of the IETF.
 
