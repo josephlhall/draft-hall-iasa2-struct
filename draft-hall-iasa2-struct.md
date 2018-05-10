@@ -173,7 +173,7 @@ This board structure, together with the staffing proposal below, is designed to 
 
 Finally, the board would be expected to operate transparently, to further address the concern raised in Section 3.3 of {{?I-D.haberman-iasa20dt-recs}}. The default transparency rule arrived at during the IASA 2.0 design process is detailed above in in {{responsibilities}}. As with the LLC, the Board would need to establish how it would implement this commitment.
 
-Note also that the Board formation rules of LLC would be defined in its corporate documents, e.g., its articles of incorporation and bylaws.
+Board formation rules would be documented in the operating agreement between ISOC and the LLC.
 
 ## Trustee Term Length and Limit
 
