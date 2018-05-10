@@ -65,7 +65,7 @@ The IETF Administrative Support Activity (IASA) was originally established in 20
 
 {{?I-D.haberman-iasa20dt-recs}} discusses the challenges facing the current structure as well as several options for reorganizing the IETF's administration under different legal structures. This document outlines how such an organization will be structured and describes how the organization will fit together with existing and new IETF community structures.
 
-This document outlines some details of what a potential "IASA 2.0" arrangement. Some of the details of the organizational structure are dependent on the choice of legal structure, but others are not. The point of this document is to solicit community input about how to address the challenges identified in {{?I-D.haberman-iasa20dt-recs}}. Ultimately, if the IETF community decides to make changes to IASA, those changes will subsequently be documented in a replacement of RFC 4071, RFC 4371, and update of BCP 101.
+This document outlines some details of a potential "IASA 2.0" arrangement. Some of the details of the organizational structure are dependent on the choice of legal structure, but others are not. The point of this document is to solicit community input about how to address the challenges identified in {{?I-D.haberman-iasa20dt-recs}}. Ultimately, if the IETF community decides to make changes to IASA, those changes will subsequently be documented in a replacement of RFC 4071, RFC 4371, and update of BCP 101.
 
 The proposal in this document is to transfer most of the responsibilities that RFC 4071 currently assigns to the Internet Administrative Director (IAD) and Internet Society (ISOC) to the newly created LLC. The IAOC would be eliminated, and its oversight and advising functions transferred to the LLC Board. It would be the job of LLC to meet the administrative needs of the IETF and ensure that LLC and IASA 2.0 is meeting the needs of the IETF community.
 
@@ -81,13 +81,13 @@ The document does not propose any changes to anything related to the oversight o
 If the community decides to make changes to IASA along the lines sketched out in this document, normative changes to IETF processes will need to be documented in an RFC. Additional legal documents (e.g., articles of incorporation, bylaws, operating agreements) relating to the legal entity would provide the official, legal definitions of processes, roles, etc. {{transition-considerations}} sketches some initial thoughts about transition; publishing a detailed transition plan would likely also be useful.
 
 ## Operating Agreement with the Internet Society
-The Operating Agreement (OA) is also out of scope for this document. The OA will be developed between the IETF and ISOC and is expected to include all critical terms, while still enabling maximum unilateral flexibility for the LLC Board. Thus, it is anticipated that the OA will include only basic details about how the Board manages itself or manages LLC staff, so that the LLC Board has flexibility to make changes without amending the OA. The LLC Board can independently develop policy or procedures documents that fill gaps. 
+The Operating Agreement (OA) is also out of scope for this document. The OA will be developed between the IETF and ISOC and is expected to include all critical terms, while still enabling maximum unilateral flexibility for the LLC Board. Thus, it is anticipated that the OA will include only basic details about how the Board manages itself or manages LLC staff, so that the LLC Board has flexibility to make changes without amending the OA. The LLC Board can independently develop policy or procedures documents that fill gaps.
 
 # Key Differences from the IASA 1.0 Structure
 
 * The IAOC and IAD roles defined in RFC 4071 are eliminated. (NOTE: ONE WG TASK IS TO REPLACE RFC 4071)
 
-* The ISOC and IAD responsibilities described in RFC 4071 are assigned to a new organization, IETF Administration LLC. 
+* The ISOC and IAD responsibilities described in RFC 4071 are assigned to a new organization, IETF Administration LLC.
 
 * The board of directors of the LLC will assume the oversight responsibilities of the IAOC.
 
@@ -123,7 +123,7 @@ The transparency and responsiveness principles are designed to address the conce
 
 The LLC Board will be responsible for conducting oversight of LLC's execution of its responsibilities, as described in {{responsibilities}}.  This includes the responsibility to:
 
-* provide strategic direction for the LLC and to the Executive Director; 
+* provide strategic direction for the LLC and to the Executive Director;
 
 * hire, supervise, and manage the employment of the role of the Executive Director of LLC, including tasks such as hiring, termination, performance review, amendment of employment terms, the award of compensation and other requisite employment benefits or decisions;
 
@@ -143,7 +143,7 @@ The board will be an oversight body, with responsibilities limited to those list
 
 The role of the LLC Board will be to ensure that the strategy and conduct of LLC is consistent with the IETF's needs -- both its concrete needs and its needs for transparency and accountability.  The board is not intended to directly define the IETF's needs; to the extent that is required, the IETF community should document its needs in consensus-based RFCs (e.g., as the community is aiming to do in {{?I-D.ietf-mtgvenue-iaoc-venue-selection-process}}) and provide more detailed input via consultations with the LLC Board (such as takes place on email discussion lists or at IETF meetings).
 
-The description below outlines the composition of the LLC Board, selection of trustees, and related details. 
+The description below outlines the composition of the LLC Board, selection of trustees, and related details.
 
 ## Board Composition
 
@@ -177,7 +177,7 @@ The options for the initial formation for the Board include:
 
 (TBD)
 
-## First Full Board 
+## First Full Board
 
 Following the initial formation of the LLC Board, and at each subsequent annual meeting of the LLC Board, they shall select by a majority vote of the LLC Board someone serve in each of the following roles:
 
