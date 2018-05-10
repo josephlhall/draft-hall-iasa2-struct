@@ -155,7 +155,7 @@ The board will be an oversight body, with responsibilities limited to those list
 
 The role of the LLC Board will be to ensure that the strategy and conduct of LLC is consistent with the IETF's needs -- both its concrete needs and its needs for transparency and accountability.  The board is not intended to directly define the IETF's needs; to the extent that is required, the IETF community should document its needs in consensus-based RFCs (e.g., as the community is aiming to do in {{?I-D.ietf-mtgvenue-iaoc-venue-selection-process}}) and provide more detailed input via consultations with the LLC Board (such as takes place on email discussion lists or at IETF meetings).
 
-The description below outlines the composition of the LLC Board, selection of trustees, and related details.
+The description below outlines the composition of the LLC Board, selection of LLC Board members, and related details.
 
 ## Board Composition
 
@@ -175,11 +175,11 @@ Finally, the board would be expected to operate transparently, to further addres
 
 Board formation rules would be documented in the operating agreement between ISOC and the LLC.
 
-## Trustee Term Length and Limit
+## LLC Board Member Term Length and Limit
 
 Term length shall be three years in length, with the possible exception of the terms for the first full formation of the LLC Board in order to establish staggered terms.
 
-(NOTE: THIS PART IS TBD BASED ON WG CONSENSUS) Trustees may serve no more than X consecutive years on the Board. This is to ensure a healthy introduction of new trustees, new ideas, and new energy onto the Board and to mitigate any potential long-term risk of ossification or conflict.
+(NOTE: THIS PART IS TBD BASED ON WG CONSENSUS) LLC Board members may serve no more than X consecutive years on the Board. This is to ensure a healthy introduction of new LLC Board members, new ideas, and new energy onto the Board and to mitigate any potential long-term risk of ossification or conflict.
 
 (NOTE: WE ALSO NEED TO DETERMINE WITH THE WG HOW PARTIAL TERMS AND REMOVAL MAY WORK - LESS IMPORTANT FOR NOW THAN DIRECTOR SOURCES AS THE 1ST ORDER OF BUSINESS.)
 
@@ -193,13 +193,13 @@ The options for the initial formation for the Board include:
 
 Following the initial formation of the LLC Board, and at each subsequent annual meeting of the LLC Board, they shall select by a majority vote of the LLC Board someone serve in each of the following roles:
 
-* Board Chair, from among the Trustees
+* Board Chair, from among the LLC Board members
 
 * Secretary
 
-* Treasurer, from among the Trustees
+* Treasurer, from among the LLC Board members
 
-The Board shall also form committees of the Board of Trustees and/or define other roles for Trustees as they see fit.
+The Board shall also form committees of the Board and/or define other roles for LLC Board members as they see fit.
 
 ## Staffing
 
