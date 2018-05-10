@@ -169,6 +169,8 @@ Term length shall be three years in length, with the possible exception of the t
 
 (NOTE: THIS PART IS TBD BASED ON WG CONSENSUS) Trustees may serve no more than X consecutive years on the Board. This is to ensure a healthy introduction of new trustees, new ideas, and new energy onto the Board and to mitigate any potential long-term risk of ossification or conflict.
 
+(NOTE: WE ALSO NEED TO DETERMINE WITH THE WG HOW PARTIAL TERMS AND REMOVAL MAY WORK - LESS IMPORTANT FOR NOW THAN DIRECTOR SOURCES AS THE 1ST ORDER OF BUSINESS.)
+
 ## Initial Board Formation
 
 The options for the initial formation for the Board include:
