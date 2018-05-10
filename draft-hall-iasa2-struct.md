@@ -116,7 +116,19 @@ The LLC will be expected to conduct its work according to the following principl
 
 * Diligence. The LLC will act responsibly so as to minimize risks to IETF participants and to the future of the IETF as a whole.
 
-The transparency and responsiveness principles are designed to address the concern outlined in Section 3.3 of {{?I-D.haberman-iasa20dt-recs}} about the need for improved timeliness of sharing of information and decisions and seeking community comments. The LLC Board will need to work with the IETF community and LLC's Executive Director to strike the appropriate balance between the community's need for information and the need to keep some business and personnel data confidential. One of the first tasks of the LLC Board is to document how the LLC will engage with the community, share information, ensure openness to feedback, and to vet this proposal with the community.
+The transparency and responsiveness principles are designed to address the concern outlined in Section 3.3 of {{?I-D.haberman-iasa20dt-recs}} about the need for improved timeliness of sharing of information and decisions and seeking community comments.
+
+The issue of increased transparency was important throughout the IASA
+2.0 process, with little to no dissent.  It was recognized that there
+will naturally be a confidentiality requirement about hotel
+contracting, personnel matters, and other narrow areas.  At IETF 101
+the IASA 2.0 design team proposed the following default transparency
+rule:
+
+> Whatever doesn't have a specific justification for being kept
+  confidential, should be made public. There must exist a public list
+  of confidential items, describing the nature of the information and
+  the reason for confidentiality.
 
 
 ## LLC Board Responsibilities
