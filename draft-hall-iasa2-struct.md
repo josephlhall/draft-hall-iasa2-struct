@@ -217,9 +217,9 @@ Conducting a transition as envisioned in this document would encompass many diff
 
 There are a number of tasks under this proposal that would require an initial bootstrap:
 
-* Defining the articles of incorporation and the bylaws of the LLC, including provisions about how those documents may be amended in the future.
+* Defining the bylaws of the LLC, including provisions about how that document may be amended in the future.
 
-* Populating the LLC Board.  The initial board for an organization is usually specified in its founding documents (e.g., articles of incorporation), along with a mechanism for replacing the initial board.  The current IETF Chair can be included in this initial set, and the other members can be seated as the appointing bodies are able.  It remains to determine how to select the initial board-selected members.
+* Populating the LLC Board.  The initial board for an organization is usually specified in its founding documents (e.g., operating agreement in the case of an LLC), along with a mechanism for replacing the initial board.  The current IETF Chair can be included in this initial set, and the other members can be seated as the appointing bodies are able.  It remains to determine how to select the initial board-selected members.
 
 * Hiring the Executive Director.  This would presumably be undertaken by the LLC Board once its membership is sufficiently well established.
 
@@ -235,4 +235,4 @@ At the same time, there may be areas where the IETF community needs to document 
 
 # Acknowledgments
 
-Thanks to Jari Arkko, Richard Barnes, Alissa Cooper, Brian Haberman, Sean Turner and the IASA 2.0 Working Group for discussions of possible structures, and to the attorneys of Morgan Lewis and Brad Biddle for legal advice.
+Thanks to Jari Arkko, Richard Barnes, Alissa Cooper, Sean Turner and the IASA 2.0 Working Group for discussions of possible structures, and to the attorneys of Morgan Lewis and Brad Biddle for legal advice.
