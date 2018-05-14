@@ -27,7 +27,7 @@ author:
     ins: J. Livingood
     name: Jason Livingood
     organization: Comcast
-    email: Jason_Livingood@comcast.com
+    email: jason_livingood@comcast.com
 
 informative:
   ML-memo:
@@ -191,9 +191,13 @@ Finally, the board would be expected to operate transparently, to further addres
 (-02 Draft Note: Consider this a placeholder until such time as WG consensus is more apparent)
 
 The structure of the Board of Directors of the LLC shall be composed of up to seven people as follows:
+
 * 1 IETF Chair or delegate selected by the IESG
+
 * 1 Appointed by the ISOC Board of Trustees
+
 * 3 Appointed by the IETF NomCom, confirmed by the IESG
+
 * 2 Appointed by the LLC board itself, confirmed by IAB
 
 
@@ -201,13 +205,13 @@ The structure of the Board of Directors of the LLC shall be composed of up to se
 
 (-02 Draft Note: Consider this a placeholder until such time as WG consensus is more apparent)
 
-The term length for a Director shall be three years in length, with possible exceptions for the terms for the first full formation of the LLC Board in order to establish staggered terms, and for any appointments to fill a vacancy.
+The term length for a Director shall be three years in length. The exceptions to this guideline will be for the terms for some Directors during the first full formation of the LLC Board in order to establish staggered terms, as well as for any appointments to fill a vacancy.
 
 ## LLC Board Director Limit {#term-limit}
 
 (-02 Draft Note: Consider this a placeholder until such time as WG consensus is more apparent)
 
-A director may serve no more than 6 consecutive years on the Board. This is to ensure a healthy regular introduction of new ideas and energy onto the Board, and to mitigate any potential long-term risk of ossification or conflict.
+A director may serve no more than six consecutive years on the Board. This is to ensure a healthy regular introduction of new ideas and energy onto the Board, and to mitigate any potential long-term risk of ossification or conflict.
 
 ## LLC Board Director Removal {#director-removal}
 
