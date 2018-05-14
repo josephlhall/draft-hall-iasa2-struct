@@ -52,8 +52,8 @@ informative:
       ins: R. Barnes
     dates: 2018-02-16
     target: https://ipv.sx/iasa2.0/IASA-Strawman-NoTrust.pdf
-    
-  101-slides:
+
+  ietf101-slides:
     title: IASA 2.0 IETF-101 Slides
     author:
       name: Joe Lorenzo Hall
@@ -117,7 +117,7 @@ The proposed responsibilities of the LLC are:
 
 * Fundraising. The LLC is responsible for raising money on behalf of the IETF.
 
-The manner by which these responsibilities under the LLC are organized is intended to address the problems described in Sections 3.1.1., 3.1.2, and 3.1.3 of {{?I-D.haberman-iasa20dt-recs}}. Specifically, this is intended to bring greater clarity around roles, responsibilities, representation, decision-making, and authority. 
+The manner by which these responsibilities under the LLC are organized is intended to address the problems described in Sections 3.1.1., 3.1.2, and 3.1.3 of {{?I-D.haberman-iasa20dt-recs}}. Specifically, this is intended to bring greater clarity around roles, responsibilities, representation, decision-making, and authority.
 
 In addirion, by having the LLC manage the IETF's finances and conduct the IETF's fundraising, confusion about who is responsible for representing the IETF to sponsors and who directs the uses of sponsorship funds will be eliminated. Finally, having the LLC reside in a defined, distinct legal entity, and taking responsibility for operations, will enable the organization to execute its own contracts without the need for review and approval by ISOC.
 
@@ -125,13 +125,13 @@ In addirion, by having the LLC manage the IETF's finances and conduct the IETF's
 
 The LLC will be expected to conduct its work according to the following proposed principles:
 
-* Transparency. The LLC will keep the IETF community reasonably informed about its work and will engage with the community to obtain consensus-based community input on key issues and otherwise as needed. As discusses in {{ietf101-slides}}, whatever doesn't have a specific justification for being kept confidential, should be made public. There must exist a public list of confidential items, describing the nature of the information and the reason for confidentiality. 
+* Transparency. The LLC will keep the IETF community reasonably informed about its work and will engage with the community to obtain consensus-based community input on key issues and otherwise as needed. As discusses in {{ietf101-slides}}, whatever doesn't have a specific justification for being kept confidential, should be made public. There must exist a public list of confidential items, describing the nature of the information and the reason for confidentiality.
 
 * Responsiveness to the community. The LLC will act consistently with the documented consensus of the IETF community, to be responsive to the community's needs, and adapt its decisions in response to consensus-based community feedback.
 
 * Diligence. The LLC will act responsibly so as to minimize risks to IETF participants and to the future of the IETF as a whole, such as financial risks.
 
-The transparency and responsiveness principles are designed to address the concern outlined in Section 3.3 of {{?I-D.haberman-iasa20dt-recs}} about the need for improved timeliness of sharing of information and decisions and seeking community comments. The issue of increased transparency was important throughout the IASA 2.0 process, with little to no dissent.  It was recognized that there will naturally be a confidentiality requirement about some aspects of hotel contracting, personnel matters, and other narrow areas.  
+The transparency and responsiveness principles are designed to address the concern outlined in Section 3.3 of {{?I-D.haberman-iasa20dt-recs}} about the need for improved timeliness of sharing of information and decisions and seeking community comments. The issue of increased transparency was important throughout the IASA 2.0 process, with little to no dissent.  It was recognized that there will naturally be a confidentiality requirement about some aspects of hotel contracting, personnel matters, and other narrow areas.
 
 ## LLC Board Responsibilities {#board-responsibilities}
 
@@ -175,9 +175,9 @@ In summary, the LLC Executive Director, with support from the team that they alo
 * Hiring and/or contracting the necessary resources to meet their goals, within the defined limits of their authority and within the approved budget. This includes managing and leading any such resources, including performing regular performance reviews.
 * Following the pre-approval guidelines set forth by the LLC Board for contracts or other decisions that have financial costs that exceed a certain threshold of significance. Such threshold will be set reasonably high so that the need for such approvals is infrequent and only occurs when something is truly significant or otherwise exceptional. It is important to ensure that the Executive Director is sufficiently empowered to perform their job on a day to day basis, being held accountable for meeting high level goals rather than micromanaged.
 * Regularly updating the LLC board on operations and other notable issues as reasonable and appropriate.
-* Ensuring that all staff and/or other resources comply with any applicable policies established or approved by the LLC Board, such as ethics guidelines and/or a code of conduct. 
+* Ensuring that all staff and/or other resources comply with any applicable policies established or approved by the LLC Board, such as ethics guidelines and/or a code of conduct.
 
-## Board Design Goals {{#board-design-goals}}
+## Board Design Goals {#board-design-goals}
 
 A goal of this proposed board composition is to balance the need for the LLC to be accountable to the IETF community with the need for this board to have the expertise necessary to oversee a small non-profit corporation. The Board is smaller than the current IAOC and the other leadership bodies of the IETF, in part to keep the board focused on its rather limited set of strategic responsibilities as noted in {{board-responsibilities}}.
 
@@ -186,7 +186,7 @@ This board structure, with limited strategic responsiblilities noted in {{board-
 Finally, the board would be expected to operate transparently, to further address the concern raised in Section 3.3 of {{?I-D.haberman-iasa20dt-recs}}. The default transparency rule arrived at during the IASA 2.0 design process is detailed above in in {{principles}}. The Board will need to establish how it will meet that commitment.
 
 
-## Board Composition {{#board-composition}}
+## Board Composition {#board-composition}
 
 (-02 Draft Note: Consider this a placeholder until such time as WG consensus is more apparent)
 
@@ -197,29 +197,29 @@ The structure of the Board of Directors of the LLC shall be composed of up to se
 * 2 Appointed by the LLC board itself, confirmed by IAB
 
 
-## LLC Board Director Term Length {{#term-length}}
+## LLC Board Director Term Length {#term-length}
 
 (-02 Draft Note: Consider this a placeholder until such time as WG consensus is more apparent)
 
 The term length for a Director shall be three years in length, with possible exceptions for the terms for the first full formation of the LLC Board in order to establish staggered terms, and for any appointments to fill a vacancy.
 
-## LLC Board Director Limit {{#term-limit}}
+## LLC Board Director Limit {#term-limit}
 
 (-02 Draft Note: Consider this a placeholder until such time as WG consensus is more apparent)
 
 A director may serve no more than 6 consecutive years on the Board. This is to ensure a healthy regular introduction of new ideas and energy onto the Board, and to mitigate any potential long-term risk of ossification or conflict.
 
-## LLC Board Director Removal {{#director-removal}}
+## LLC Board Director Removal {#director-removal}
 
 (-02 Draft Note: No content as of yet)
 
-## Filling a LLC Board Director Vacancy {{#director-vacancy}}
+## Filling a LLC Board Director Vacancy {#director-vacancy}
 
 (-02 Draft Note: Consider this a placeholder until such time as WG consensus is more apparent)
 
 It shall be the responsibility of each respective body that appointed a Director that vacates the Board to appoint a new Director to fill tht vacancy. For example, if a Director appointed by the NomCom departs the Board prior to the end of their term for whatever reason, then it is the responsibility of the NomCom as the original appointing body to designate a replacement that will serve out the remainder of the term of the departed Director/.
 
-## Initial Interim Board 
+## Initial Interim Board
 
 (-02 Draft Note: Consider this a placeholder until such time as WG consensus is more apparent)
 
