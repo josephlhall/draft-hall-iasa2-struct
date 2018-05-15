@@ -115,9 +115,9 @@ The proposed responsibilities of the LLC are:
 
 * Finances. The LLC is responsible for managing the IETF's finances and budget.
 
-* Fundraising. The LLC is responsible for raising money on behalf of the IETF. 
+* Fundraising. The LLC is responsible for raising money on behalf of the IETF.
 
-* Compliance. The LLC is responsible for establishing and enforcing polcies to ensure compliance with applicable laws, regulations, and rules. 
+* Compliance. The LLC is responsible for establishing and enforcing polcies to ensure compliance with applicable laws, regulations, and rules.
 
 The manner by which these responsibilities under the LLC are organized is intended to address the problems described in Sections 3.1.1., 3.1.2, and 3.1.3 of {{?I-D.haberman-iasa20dt-recs}}. Specifically, this is intended to bring greater clarity around roles, responsibilities, representation, decision-making, and authority.
 
@@ -159,13 +159,13 @@ The Board will be an oversight body, with responsibilities limited to those list
 
 The role of the LLC Board will be to ensure that the strategy and conduct of LLC is consistent with the IETF's needs -- both its concrete needs and its needs for transparency and accountability.  The Board is not intended to directly define the IETF's needs; to the extent that is required, the IETF community should document its needs in consensus-based RFCs (e.g., as the community is aiming to do in {{?I-D.ietf-mtgvenue-iaoc-venue-selection-process}}) and provide more detailed input via consultations with the LLC Board (such as takes place on email discussion lists or at IETF meetings).
 
-As part of the responsibilities outlined above, some of which is outlined further in {{board-policies}} the Board shall work to ensure that LLC will:
+As part of the responsibilities outlined above, some of which is outlined further in (TODO: reference board-policies document) the Board shall work to ensure that LLC will:
 
 * Act consistently with ISOC’s 501(c)(3) status;
 
 * Provide accurate financial statements to ISOC on a timely basis;
 
-* Prepare its financial reports in accordance with generally accepted accounting principles; 
+* Prepare its financial reports in accordance with generally accepted accounting principles;
 
 * Provide assistance to help facilitate ISOC’s tax compliance, including but not limited to assistance related to preparing the Form 990 and responding to any IRS questions and audits;
 
@@ -177,7 +177,7 @@ The description below outlines the composition of the LLC Board, selection of LL
 
 ## Executive Director and Staff Responsibilities {#staff-responsibilities}
 
-The LLC shall be led by an Executive Director chosen by the Board. The Executive Director will be responsible for managing the day-to-day operations of the LLC, including hiring staff to perform various operational functions. The Executive Director and any staff may be employees or independent contractors. 
+The LLC shall be led by an Executive Director chosen by the Board. The Executive Director will be responsible for managing the day-to-day operations of the LLC, including hiring staff to perform various operational functions. The Executive Director and any staff may be employees or independent contractors.
 
 Allowing for the division of responsibilities among multiple staff members and contractors should hopefully address some of the concerns raised in Section 3.2 (Lack of Resources) and Section 3.4 (Funding/Operating Model Mismatch and Rising Costs) of {{?I-D.haberman-iasa20dt-recs}}.
 
@@ -265,7 +265,7 @@ The Board shall develop policies as necessary to achieve the goals of the LLC, m
 
 The Board shall develop a Conflict of Interest policy for the LLC. While the details shall be determined by the Board, at a minimum such policy will include the following:
 
-* The IETF, ISOC, IAB, IRTF chair cannot be chair of this LLC Board. 
+* The IETF, ISOC, IAB, IRTF chair cannot be chair of this LLC Board.
 
 * A Director cannot be a paid consultant or employee of the Executive Director or their sub-contractors, nor a paid consultant or employee of ISOC.
 
@@ -275,27 +275,27 @@ The Board shall develop additional policies for the LLC, convering Directors, em
 
 * Acceptance of gifts and other non-cash compensation;
 
-* Travel and expense reimbursement; 
+* Travel and expense reimbursement;
 
 * Anti-bribery;
 
 * Code of conduct;
 
-* Anti-harassment; 
+* Anti-harassment;
 
 * Non-discrimination;
 
-* Whistleblower; 
+* Whistleblower;
 
-* Document retention; 
+* Document retention;
 
 * Export controls;
 
-* Anti-terrorism sanctions; 
+* Anti-terrorism sanctions;
 
 * Data protection and privacy;
 
-* Social media; 
+* Social media;
 
 # Compliance {#compliance}
 
