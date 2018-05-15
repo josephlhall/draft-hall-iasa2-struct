@@ -257,7 +257,7 @@ It is possible that an initial interim Board may be necessary in order to legall
 
 Following the formation of the first full LLC Board, and at each subsequent annual meeting of the LLC Board, the Directors shall elect by a majority vote of the LLC Board a Director to serve as Board Chair. The Board may also form committees of the Board and/or define other roles for LLC Board Directors as necessary.
 
-# Board Policies {#board-policies}
+# LLC Policies {#llc-policies}
 
 The Board shall develop policies as necessary to achieve the goals of the LLC, meet transparency expectations of the community, comply with applicable laws or regulations, or for other reasons as appropriate. All policies should be developed with input from the IETF community.
 
@@ -299,13 +299,13 @@ The Board shall develop additional policies for the LLC, convering Directors, em
 
 # Compliance {#compliance}
 
-The LLC shall develop and implement a compliance program to ensure its compliance with all applicable laws, rules and regulations, including without limitation laws governing bribery, anti-terrorism sanctions, export controls, data protection/privacy, as well as other applicable polcies noted in {{board-policies}}. In addition, actions and activities of the LLC must be consistent with 501(c)(3) purposes.
+The LLC shall develop and implement a compliance program to ensure its compliance with all applicable laws, rules and regulations, including without limitation laws governing bribery, anti-terrorism sanctions, export controls, data protection/privacy, as well as other applicable polcies noted in {{llc-policies}}. In addition, actions and activities of the LLC must be consistent with 501(c)(3) purposes.
 
 The LLC shall report to ISOC on the implementation of its compliance plan on an annual basis.
 
 # Fundraising Practices {#fundraising-practices}
 
-When the LLC conducts fundraising, it will substantiate charitable contributions on behalf of ISOC. The LLC will evaluate and facilitate state, federal, and other applicable law and regulatory compliance for ISOC and/or the LLC with respect to such fundraising activities. In addition, the LLC shall ensure that all fundrasing activities are conducted in compliance with any polcies developed by the LLC, including but not limited to those noted in {{board-policies}}.
+When the LLC conducts fundraising, it will substantiate charitable contributions on behalf of ISOC. The LLC will evaluate and facilitate state, federal, and other applicable law and regulatory compliance for ISOC and/or the LLC with respect to such fundraising activities. In addition, the LLC shall ensure that all fundrasing activities are conducted in compliance with any polcies developed by the LLC, including but not limited to those noted in {{llc-policies}}.
 
 # Transition Considerations {#transition-considerations}
 
