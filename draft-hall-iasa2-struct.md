@@ -115,11 +115,13 @@ The proposed responsibilities of the LLC are:
 
 * Finances. The LLC is responsible for managing the IETF's finances and budget.
 
-* Fundraising. The LLC is responsible for raising money on behalf of the IETF.
+* Fundraising. The LLC is responsible for raising money on behalf of the IETF. 
+
+* Compliance. The LLC is responsible for establishing and enforcing polcies to ensure compliance with applicable laws, regulations, and rules. 
 
 The manner by which these responsibilities under the LLC are organized is intended to address the problems described in Sections 3.1.1., 3.1.2, and 3.1.3 of {{?I-D.haberman-iasa20dt-recs}}. Specifically, this is intended to bring greater clarity around roles, responsibilities, representation, decision-making, and authority.
 
-In addirion, by having the LLC manage the IETF's finances and conduct the IETF's fundraising, confusion about who is responsible for representing the IETF to sponsors and who directs the uses of sponsorship funds will be eliminated. Finally, having the LLC reside in a defined, distinct legal entity, and taking responsibility for operations, will enable the organization to execute its own contracts without the need for review and approval by ISOC.
+In addition, by having the LLC manage the IETF's finances and conduct the IETF's fundraising, confusion about who is responsible for representing the IETF to sponsors and who directs the uses of sponsorship funds will be eliminated. Finally, having the LLC reside in a defined, distinct legal entity, and taking responsibility for operations, will enable the organization to execute its own contracts without the need for review and approval by ISOC.
 
 ## LLC Working Principles {#principles}
 
@@ -153,15 +155,31 @@ The LLC Board will be responsible for conducting oversight of LLC's execution of
 
 * ensuring that LLC is run in a manner that is transparent and accountable to the IETF community.
 
-The board will be an oversight body, with responsibilities limited to those listed above. It will not directly conduct any of the IETF's administrative work, which is the day-to-day job of the Executive Director at their team.
+The Board will be an oversight body, with responsibilities limited to those listed above. It will not directly conduct any of the IETF's administrative work, which is the day-to-day job of the Executive Director at their team.
 
-The role of the LLC Board will be to ensure that the strategy and conduct of LLC is consistent with the IETF's needs -- both its concrete needs and its needs for transparency and accountability.  The board is not intended to directly define the IETF's needs; to the extent that is required, the IETF community should document its needs in consensus-based RFCs (e.g., as the community is aiming to do in {{?I-D.ietf-mtgvenue-iaoc-venue-selection-process}}) and provide more detailed input via consultations with the LLC Board (such as takes place on email discussion lists or at IETF meetings).
+The role of the LLC Board will be to ensure that the strategy and conduct of LLC is consistent with the IETF's needs -- both its concrete needs and its needs for transparency and accountability.  The Board is not intended to directly define the IETF's needs; to the extent that is required, the IETF community should document its needs in consensus-based RFCs (e.g., as the community is aiming to do in {{?I-D.ietf-mtgvenue-iaoc-venue-selection-process}}) and provide more detailed input via consultations with the LLC Board (such as takes place on email discussion lists or at IETF meetings).
 
-The description below outlines the composition of the LLC Board, selection of LLC Board members, and related details.
+As part of the responsibilities outlined above, some of which is outlined further in {{board-policies}} the Board shall work to ensure that LLC will:
+
+* Act consistently with ISOC’s 501(c)(3) status;
+
+* Provide accurate financial statements to ISOC on a timely basis;
+
+* Prepare its financial reports in accordance with generally accepted accounting principles; 
+
+* Provide assistance to help facilitate ISOC’s tax compliance, including but not limited to assistance related to preparing the Form 990 and responding to any IRS questions and audits;
+
+* Obtain appropriate insurance, including commercial general liability insurance with appropriate limits;
+
+* Implement risk management and compliance processes in a manner consistent with industry norms.
+
+The description below outlines the composition of the LLC Board, selection of LLC Board Directors, and related details.
 
 ## Executive Director and Staff Responsibilities {#staff-responsibilities}
 
-The LLC shall be led by an Executive Director chosen by the board. The Executive Director will determine what other staff and contractors are required by the LLC. Allowing for the division of responsibilities among multiple staff members and contractors should hopefully address some of the concerns raised in Section 3.2 (Lack of Resources) and Section 3.4 (Funding/Operating Model Mismatch and Rising Costs) of {{?I-D.haberman-iasa20dt-recs}}.
+The LLC shall be led by an Executive Director chosen by the Board. The Executive Director will be responsible for managing the day-to-day operations of the LLC, including hiring staff to perform various operational functions. The Executive Director and any staff may be employees or independent contractors. 
+
+Allowing for the division of responsibilities among multiple staff members and contractors should hopefully address some of the concerns raised in Section 3.2 (Lack of Resources) and Section 3.4 (Funding/Operating Model Mismatch and Rising Costs) of {{?I-D.haberman-iasa20dt-recs}}.
 
 Based on the amount of work currently undertaken by the IAD and others involved in the IETF administration who are not currently in contracted roles, it is anticipated that the Executive Director may need to hire multiple additional staff members. For example, there will likely be a need for resources to manage fundraising, to manage the various contractors that are engaged to fulfill the IETF's administrative needs, and to support outreach and communications.
 
@@ -174,16 +192,16 @@ In summary, the LLC Executive Director, with support from the team that they alo
 * Executing on the annual budget, including reporting to the LLC Board regularly with forecasts and actual performance to budget.
 * Hiring and/or contracting the necessary resources to meet their goals, within the defined limits of their authority and within the approved budget. This includes managing and leading any such resources, including performing regular performance reviews.
 * Following the pre-approval guidelines set forth by the LLC Board for contracts or other decisions that have financial costs that exceed a certain threshold of significance. Such threshold will be set reasonably high so that the need for such approvals is infrequent and only occurs when something is truly significant or otherwise exceptional. It is important to ensure that the Executive Director is sufficiently empowered to perform their job on a day to day basis, being held accountable for meeting high level goals rather than micromanaged.
-* Regularly updating the LLC board on operations and other notable issues as reasonable and appropriate.
+* Regularly updating the LLC Board on operations and other notable issues as reasonable and appropriate.
 * Ensuring that all staff and/or other resources comply with any applicable policies established or approved by the LLC Board, such as ethics guidelines and/or a code of conduct.
 
 ## Board Design Goals {#board-design-goals}
 
-A goal of this proposed board composition is to balance the need for the LLC to be accountable to the IETF community with the need for this board to have the expertise necessary to oversee a small non-profit corporation. The Board is smaller than the current IAOC and the other leadership bodies of the IETF, in part to keep the board focused on its rather limited set of strategic responsibilities as noted in {{board-responsibilities}}.
+A goal of this proposed Board composition is to balance the need for the LLC to be accountable to the IETF community with the need for this Board to have the expertise necessary to oversee a small non-profit corporation. The Board is smaller than the current IAOC and the other leadership bodies of the IETF, in part to keep the Board focused on its rather limited set of strategic responsibilities as noted in {{board-responsibilities}}.
 
 This board structure, with limited strategic responsiblilities noted in {{board-responsibilities}} and limited size, together with the staff responsibilities noted in {{staff-responsibilities}}, is designed to overcome the challenges described in Section 3.1.4 of {{?I-D.haberman-iasa20dt-recs}} concerning oversight. This establishes a clear line of oversight over staff performance: the Board oversees the Executive Director's performance and has actual legal authority to remove a non-performing Executive Director. The Executive Director is responsible for the day-to-day operation of the LLC.
 
-Finally, the board would be expected to operate transparently, to further address the concern raised in Section 3.3 of {{?I-D.haberman-iasa20dt-recs}}. The default transparency rule arrived at during the IASA 2.0 design process is detailed above in in {{principles}}. The Board will need to establish how it will meet that commitment.
+Finally, the Board would be expected to operate transparently, to further address the concern raised in Section 3.3 of {{?I-D.haberman-iasa20dt-recs}}. The default transparency rule arrived at during the IASA 2.0 design process is detailed above in in {{principles}}. The Board will need to establish how it will meet that commitment.
 
 
 ## Board Composition {#board-composition}
@@ -198,7 +216,7 @@ The structure of the Board of Directors of the LLC shall be composed of up to se
 
 * 3 Appointed by the IETF NomCom, confirmed by the IESG
 
-* 2 Appointed by the LLC board itself, confirmed by IAB
+* 2 Appointed by the LLC Board itself, confirmed by IAB
 
 
 ## LLC Board Director Term Length {#term-length}
@@ -215,7 +233,7 @@ A director may serve no more than six consecutive years on the Board. This is to
 
 ## LLC Board Director Removal {#director-removal}
 
-(-02 Draft Note: No content as of yet)
+Directors may be removed with or without cause by a vote of two-thirds of the Trustees then in office.
 
 ## Filling a LLC Board Director Vacancy {#director-vacancy}
 
@@ -223,35 +241,85 @@ A director may serve no more than six consecutive years on the Board. This is to
 
 It shall be the responsibility of each respective body that appointed a Director that vacates the Board to appoint a new Director to fill tht vacancy. For example, if a Director appointed by the NomCom departs the Board prior to the end of their term for whatever reason, then it is the responsibility of the NomCom as the original appointing body to designate a replacement that will serve out the remainder of the term of the departed Director/.
 
-## Initial Interim Board
+## Initial Interim Board {#interim-board}
 
 (-02 Draft Note: Consider this a placeholder until such time as WG consensus is more apparent)
 
 It is possible that an initial interim Board may be necessary in order to legally form and bootstrap the LLC. Should this be the case, then there will be a time and scope limitation for this initial interim Board after which the First Full Board will be in place.
 
-## First Full Board
+## First Full Board {#first-full-board}
 
 (-02 Draft Note: Consider this a placeholder until such time as WG consensus is more apparent)
 
-## Board Positions
+## Board Positions {#board-positions}
 
 (-02 Draft Note: Consider this a placeholder until such time as WG consensus is more apparent)
 
-Following the formation of the first full LLC Board, and at each subsequent annual meeting of the LLC Board, the Directors shall elect by a majority vote of the LLC Board a Director to serve as Board Chair. The Board may also form committees of the Board and/or define other roles for LLC Board members as necessary.
+Following the formation of the first full LLC Board, and at each subsequent annual meeting of the LLC Board, the Directors shall elect by a majority vote of the LLC Board a Director to serve as Board Chair. The Board may also form committees of the Board and/or define other roles for LLC Board Directors as necessary.
 
-# Transition Considerations
+# Board Policies {#board-policies}
 
-Conducting a transition as envisioned in this document would encompass many different aspects and would require action from the IETF community, the IAOC, the IAD, ISOC, a newly hired LLC Executive Director and staff, and newly appointed LLC Board members. This document sketches some thoughts on the subset of tasks that would entail some IETF community involvement or review (as opposed to, say, the transfer of administrative assets).
+The Board shall develop policies as necessary to achieve the goals of the LLC, meet transparency expectations of the community, comply with applicable laws or regulations, or for other reasons as appropriate. All policies should be developed with input from the IETF community.
+
+## Conflict of Interest Policy {#conflict-of-interest}
+
+The Board shall develop a Conflict of Interest policy for the LLC. While the details shall be determined by the Board, at a minimum such policy will include the following:
+
+* The IETF, ISOC, IAB, IRTF chair cannot be chair of this LLC Board. 
+
+* A Director cannot be a paid consultant or employee of the Executive Director or their sub-contractors, nor a paid consultant or employee of ISOC.
+
+## Other Policies {#other-policies}
+
+The Board shall develop additional policies for the LLC, convering Directors, employees, and contractors, concerning issues such as:
+
+* Acceptance of gifts and other non-cash compensation;
+
+* Travel and expense reimbursement; 
+
+* Anti-bribery;
+
+* Code of conduct;
+
+* Anti-harassment; 
+
+* Non-discrimination;
+
+* Whistleblower; 
+
+* Document retention; 
+
+* Export controls;
+
+* Anti-terrorism sanctions; 
+
+* Data protection and privacy;
+
+* Social media; 
+
+# Compliance {#compliance}
+
+The LLC shall develop and implement a compliance program to ensure its compliance with all applicable laws, rules and regulations, including without limitation laws governing bribery, anti-terrorism sanctions, export controls, data protection/privacy, as well as other applicable polcies noted in {{board-policies}}. In addition, actions and activities of the LLC must be consistent with 501(c)(3) purposes.
+
+The LLC shall report to ISOC on the implementation of its compliance plan on an annual basis.
+
+# Fundraising Practices {#fundraising-practices}
+
+When the LLC conducts fundraising, it will substantiate charitable contributions on behalf of ISOC. The LLC will evaluate and facilitate state, federal, and other applicable law and regulatory compliance for ISOC and/or the LLC with respect to such fundraising activities. In addition, the LLC shall ensure that all fundrasing activities are conducted in compliance with any polcies developed by the LLC, including but not limited to those noted in {{board-policies}}.
+
+# Transition Considerations {#transition-considerations}
+
+Conducting a transition as envisioned in this document would encompass many different aspects and would require action from the IETF community, the IAOC, the IAD, ISOC, a newly hired LLC Executive Director and staff, and newly appointed LLC Board Directors. This document sketches some thoughts on the subset of tasks that would entail some IETF community involvement or review (as opposed to, say, the transfer of administrative assets).
 
 There are a number of tasks under this proposal that would require an initial bootstrap:
 
 * Defining the bylaws of the LLC, including provisions about how that document may be amended in the future.
 
-* Populating the LLC Board.  The initial board for an organization is usually specified in its founding documents (e.g., operating agreement in the case of an LLC), along with a mechanism for replacing the initial board.  The current IETF Chair can be included in this initial set, and the other members can be seated as the appointing bodies are able.  It remains to determine how to select the initial board-selected members.
+* Populating the LLC Board.  The initial Board for an organization is usually specified in its founding documents (e.g., operating agreement in the case of an LLC), along with a mechanism for replacing the initial Board.  The current IETF Chair can be included in this initial set, and the other Directors can be seated as the appointing bodies are able.  It remains to determine how to select the initial Board-selected Directors.
 
 * Hiring the Executive Director.  This would presumably be undertaken by the LLC Board once its membership is sufficiently well established.
 
-* Defining the operating procedures and administrative support for the board. The board will need to have processes defined for selecting a chair and conducting its work. The board will also need to define how it would fulfill its transparency obligations to the community.
+* Defining the operating procedures and administrative support for the Board. The Board will need to have processes defined for selecting a chair and conducting its work. The Board will also need to define how it would fulfill its transparency obligations to the community.
 
 Once the Executive Director and any additional staff are hired, it would be expected for LLC to:
 
@@ -263,7 +331,7 @@ At the same time, there may be areas where the IETF community needs to document 
 
 
 # Initial Tasks of the Board
-The first regular board of the LLC, which may come after a potential interim board to bootstrap the formation of the LLC, shall focus on tasks including:
+The first regular Board of the LLC, which may come after a potential interim Board to bootstrap the formation of the LLC, shall focus on tasks including:
 * Determine how the LLC will engage with the community, share information, ensure openness to feedback, and to vet this proposal with the community.
 
 
