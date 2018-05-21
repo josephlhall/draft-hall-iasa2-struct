@@ -255,7 +255,7 @@ It is possible that an initial interim Board may be necessary in order to legall
 
 (-02 Draft Note: Consider this a placeholder until such time as WG consensus is more apparent)
 
-Following the formation of the first full LLC Board, and at each subsequent annual meeting of the LLC Board, the Directors shall elect by a majority vote of the LLC Board a Director to serve as Board Chair. The Board may also form committees of the Board and/or define other roles for LLC Board Directors as necessary.
+Following the formation of the first full LLC Board, and at each subsequent annual meeting of the LLC Board, the Directors shall elect by a majority vote of the LLC Board a Director to serve as Board Chair. The Board may also form committees of the Board and/or define other roles for LLC Board Directors as necessary. The Board may optionally appoint a Director to act as Treasurer. The Board may also optionally appoint a Director to act as Secretary, or may direct the Executive Director or other staff to play that role.
 
 # LLC Policies {#llc-policies}
 
