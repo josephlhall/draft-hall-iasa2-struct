@@ -149,7 +149,7 @@ The LLC Board will be responsible for conducting oversight of LLC's execution of
 
 * exercising a fiduciary duty to ensure that LLC has the financial and business stability that it needs to be able to meet the needs of the IETF, including adopting an annual budget, and as necessary incurring any debt or making other financial arrangements;
 
-* approving or entering into agreements that that meet a significant materiality threshold (NOTE: TBD later by the LLC Board);
+* approving or entering into agreements that that meet a significant materiality threshold;
 
 * exercising a legal duty to ensure that the LLC complies with any applicable tax and other laws;
 
@@ -295,7 +295,7 @@ The Board shall develop additional policies for the LLC, convering Directors, em
 
 * Data protection and privacy;
 
-* Social media;
+* Social media
 
 # Compliance {#compliance}
 
@@ -320,6 +320,8 @@ There are a number of tasks under this proposal that would require an initial bo
 * Hiring the Executive Director.  This would presumably be undertaken by the LLC Board once its membership is sufficiently well established.
 
 * Defining the operating procedures and administrative support for the Board. The Board will need to have processes defined for selecting a chair and conducting its work. The Board will also need to define how it would fulfill its transparency obligations to the community.
+
+* Defining the "significant materiality threshold", above which the Board must approve any contracts, expenditures, or other commitments.
 
 Once the Executive Director and any additional staff are hired, it would be expected for LLC to:
 
