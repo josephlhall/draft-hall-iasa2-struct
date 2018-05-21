@@ -259,7 +259,7 @@ Following the formation of the first full LLC Board, and at each subsequent annu
 
 # LLC Policies {#llc-policies}
 
-The Board shall develop policies as necessary to achieve the goals of the LLC, meet transparency expectations of the community, comply with applicable laws or regulations, or for other reasons as appropriate. All policies should be developed with input from the IETF community.
+The Board shall develop policies as necessary to achieve the goals of the LLC, meet transparency expectations of the community, comply with applicable laws or regulations, or for other reasons as appropriate. All policies should be developed with input from the IETF community. Some policies of ISOC may provide a good starting point from which the Board can begin.
 
 ## Conflict of Interest Policy {#conflict-of-interest}
 
