@@ -234,11 +234,9 @@ A director may serve no more than two consecutive terms, up to six consecutive y
 
 ## LLC Board Director Removal {#director-removal}
 
-Directors may be removed with or without cause by a vote of two-thirds of the Trustees then in office.
+Directors may be removed with or without cause. Of the seated Directors, with the exception of the Director subject to the vote of removal, the vote in favor of removal must be unanimous.
 
 ## Filling a LLC Board Director Vacancy {#director-vacancy}
-
-(-02 Draft Note: Consider this a placeholder until such time as WG consensus is more apparent)
 
 It shall be the responsibility of each respective body that appointed a Director that vacates the Board to appoint a new Director to fill tht vacancy. For example, if a Director appointed by the NomCom departs the Board prior to the end of their term for whatever reason, then it is the responsibility of the NomCom as the original appointing body to designate a replacement that will serve out the remainder of the term of the departed Director.
 
@@ -253,8 +251,6 @@ It is possible that an initial interim Board may be necessary in order to legall
 (-02 Draft Note: Consider this a placeholder until such time as WG consensus is more apparent)
 
 ## Board Positions {#board-positions}
-
-(-02 Draft Note: Consider this a placeholder until such time as WG consensus is more apparent)
 
 Following the formation of the first full LLC Board, and at each subsequent annual meeting of the LLC Board, the Directors shall elect by a majority vote of the LLC Board a Director to serve as Board Chair. The Board may also form committees of the Board and/or define other roles for LLC Board Directors as necessary. The Board may optionally appoint a Director to act as Treasurer. The Board may also optionally appoint a Director to act as Secretary, or may direct the Executive Director or other staff to play that role, or appoint someone else that is outside of the Board and staff.
 
