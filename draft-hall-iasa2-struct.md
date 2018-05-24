@@ -30,6 +30,12 @@ author:
     email: jason_livingood@comcast.com
 
 informative:
+  RFC-2119:
+  author: Scott Bradner
+  org: Harvard University
+  date: 1997-03
+  target: https://www.ietf.org/rfc/rfc2119.txt
+
   ML-memo:
     title: Options for New Organization to Conduct IETF Administrative Support Activities
     author:
