@@ -137,7 +137,7 @@ The transparency and responsiveness principles are designed to address the conce
 
 ## LLC Board Responsibilities {#board-responsibilities}
 
-The LLC Board will be responsible for conducting oversight of LLC's execution of its responsibilities, as described in {{llc-responsibilities}}.  This includes the responsibility to:
+The LLC Board will be responsible for conducting oversight of LLC's execution of its responsibilities, as described in {{llc-responsibilities}}.  They have duties of loyalty, care, and good faith. This includes the responsibility to:
 
 * provide strategic direction for the LLC and to the Executive Director;
 
@@ -153,7 +153,9 @@ The LLC Board will be responsible for conducting oversight of LLC's execution of
 
 * exercising a legal duty to ensure that the LLC complies with any applicable tax and other laws;
 
-* ensuring that LLC is run in a manner that is transparent and accountable to the IETF community.
+* ensuring that LLC is run in a manner that is transparent and accountable to the IETF community;
+
+* recruit new Directors, for consideration in all of the various appointment processes.
 
 The Board will be an oversight body, with responsibilities limited to those listed above. It will not directly conduct any of the IETF's administrative work, which is the day-to-day job of the Executive Director at their team.
 
@@ -218,18 +220,17 @@ The structure of the Board of Directors of the LLC shall be composed of up to se
 
 * 2 Appointed by the LLC Board itself, confirmed by IAB
 
+## Recruiting LLC Board Directors {#director-recruitment}
+
+The LLC Board itself, as well as the community as a whole, should take an active role in recruiting potential new Directors, regardless of the process that may be used to appoint them. In particular, the NomCom is primarily focused on considering requirements expressed by the Board and others, reviewing community feedback on candidates, conducting candidate interviews, and ultimately appointing Directors. The LLC Board and others can recruit potential Directors and get them into the consideration process of the NomCom or other appointing bodies.
 
 ## LLC Board Director Term Length {#term-length}
-
-(-02 Draft Note: Consider this a placeholder until such time as WG consensus is more apparent)
 
 The term length for a Director shall be three years in length. The exceptions to this guideline will be for the terms for some Directors during the first full formation of the LLC Board in order to establish staggered terms, as well as for any appointments to fill a vacancy.
 
 ## LLC Board Director Limit {#term-limit}
 
-(-02 Draft Note: Consider this a placeholder until such time as WG consensus is more apparent)
-
-A director may serve no more than six consecutive years on the Board. This is to ensure a healthy regular introduction of new ideas and energy onto the Board, and to mitigate any potential long-term risk of ossification or conflict.
+A director may serve no more than two consecutive terms, up to six consecutive years on the Board, with at least one full term prior to the start of any additional terms. This is to ensure a healthy regular introduction of new ideas and energy onto the Board, and to mitigate any potential long-term risk of ossification or conflict.
 
 ## LLC Board Director Removal {#director-removal}
 
@@ -239,7 +240,7 @@ Directors may be removed with or without cause by a vote of two-thirds of the Tr
 
 (-02 Draft Note: Consider this a placeholder until such time as WG consensus is more apparent)
 
-It shall be the responsibility of each respective body that appointed a Director that vacates the Board to appoint a new Director to fill tht vacancy. For example, if a Director appointed by the NomCom departs the Board prior to the end of their term for whatever reason, then it is the responsibility of the NomCom as the original appointing body to designate a replacement that will serve out the remainder of the term of the departed Director/.
+It shall be the responsibility of each respective body that appointed a Director that vacates the Board to appoint a new Director to fill tht vacancy. For example, if a Director appointed by the NomCom departs the Board prior to the end of their term for whatever reason, then it is the responsibility of the NomCom as the original appointing body to designate a replacement that will serve out the remainder of the term of the departed Director.
 
 ## Initial Interim Board {#interim-board}
 
