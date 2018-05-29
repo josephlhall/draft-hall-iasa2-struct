@@ -36,6 +36,11 @@ informative:
   date: 1997-03
   target: https://www.ietf.org/rfc/rfc2119.txt
 
+  RFC-7437:
+  author: Murray Kucherawy
+  date: 2015-07
+  target: https://tools.ietf.org/html/rfc7437
+
   ML-memo:
     title: Options for New Organization to Conduct IETF Administrative Support Activities
     author:
@@ -236,11 +241,11 @@ The term length for a Director shall be three years in length. The exceptions to
 
 ## LLC Board Director Limit {#term-limit}
 
-A director may serve no more than two consecutive terms, with at least one full term prior to the start of any additional terms. This is to ensure a healthy regular introduction of new ideas and energy onto the Board, and to mitigate any potential long-term risk of ossification or conflict. The only exception is if a Director role is occupied by the IETF Chair ex officio, since that person’s service is governed instead by the term lengths established in RFC 7437, Section 3.4.
+A director may serve no more than two consecutive terms, with at least one full term prior to the start of any additional terms. This is to ensure a healthy regular introduction of new ideas and energy onto the Board, and to mitigate any potential long-term risk of ossification or conflict. The only exception is if a Director role is occupied by the IETF Chair ex officio, since that person’s service is governed instead by the term lengths established in {{RFC-7437}}, Section 3.4.
 
 ## LLC Board Director Removal {#director-removal}
 
-Directors may be removed with or without cause. Of the seated Directors, with the exception of the Director subject to the vote of removal, the vote in favor of removal must be unanimous.
+Directors may be removed with or without cause. Of the seated Directors, with the exception of the Director subject to the vote of removal, the vote in favor of removal must be at least one fewer than unanimous. Directors may also be removed via the IETF recall process defined in {{RFC-7437}}, Section 7.
 
 ## Filling a LLC Board Director Vacancy {#director-vacancy}
 
