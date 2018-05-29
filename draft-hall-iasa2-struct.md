@@ -30,13 +30,13 @@ author:
     email: jason_livingood@comcast.com
 
 informative:
-  RFC-2119:
+  RFC2119:
   author: Scott Bradner
   org: Harvard University
   date: 1997-03
   target: https://www.ietf.org/rfc/rfc2119.txt
 
-  RFC-7437:
+  RFC7437:
   author: Murray Kucherawy
   date: 2015-07
   target: https://tools.ietf.org/html/rfc7437
@@ -241,11 +241,11 @@ The term length for a Director shall be three years in length. The exceptions to
 
 ## LLC Board Director Limit {#term-limit}
 
-A director may serve no more than two consecutive terms, with at least one full term prior to the start of any additional terms. This is to ensure a healthy regular introduction of new ideas and energy onto the Board, and to mitigate any potential long-term risk of ossification or conflict. The only exception is if a Director role is occupied by the IETF Chair ex officio, since that person’s service is governed instead by the term lengths established in {{RFC-7437}}, Section 3.4.
+A director may serve no more than two consecutive terms, with at least one full term prior to the start of any additional terms. This is to ensure a healthy regular introduction of new ideas and energy onto the Board, and to mitigate any potential long-term risk of ossification or conflict. The only exception is if a Director role is occupied by the IETF Chair ex officio, since that person’s service is governed instead by the term lengths established in {{RFC7437}}, Section 3.4.
 
 ## LLC Board Director Removal {#director-removal}
 
-Directors may be removed with or without cause. Of the seated Directors, with the exception of the Director subject to the vote of removal, the vote in favor of removal must be at least one fewer than unanimous. Directors may also be removed via the IETF recall process defined in {{RFC-7437}}, Section 7.
+Directors may be removed with or without cause. Of the seated Directors, with the exception of the Director subject to the vote of removal, the vote in favor of removal must be at least one fewer than unanimous. Directors may also be removed via the IETF recall process defined in {{RFC7437}}, Section 7.
 
 ## Filling a LLC Board Director Vacancy {#director-vacancy}
 
@@ -307,7 +307,7 @@ The Board shall develop additional policies for the LLC, convering Directors, em
 
 # Board Voting {#voting}
 
-The Board can hold votes in meetings of the Board or, in some cases, via electronic means if permissable. Decisions on regular LLC matters shall be made by majority vote. Decisions on special LLC matteers, at least a 2/3 majority must vote in favor, with the exception of removal of a Director as specified in {{#director-removal}}.
+The Board can hold votes in meetings of the Board or, in some cases, via electronic means if permissable. Decisions on regular LLC matters shall be made by majority vote. Decisions on special LLC matteers, at least a 2/3 majority must vote in favor, with the exception of removal of a Director as specified in {{director-removal}}.
 
 ## Quorum {#quorum}
 At all meetings of the Board, a majority of the Directors then in office shall constitute a quorum for the transaction of business. Unless a greater affirmative vote is expressly required for an action under applicable law, the LLC guidelines, or other Board policies, the affirmative vote of a majority of the Directors present at any meeting at which a quorum is present shall be an act of the Board. Absentee voting and voting by proxy shall not be permitted. If a quorum shall not be present at any meeting of the Board, the Directors present thereat may adjourn the meeting from time to time, without notice other than announcement at the meeting, until a quorum shall be present.
