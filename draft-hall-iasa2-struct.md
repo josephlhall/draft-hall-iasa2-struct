@@ -219,7 +219,7 @@ Finally, the Board would be expected to operate transparently, to further addres
 
 ## Board Composition {#board-composition}
 
-(-02 Draft Note: Consider this a placeholder until such time as WG consensus is more apparent)
+(NOTE: AS OF -03 DRAFT THIS REMAINS AN AREA OF ACTIVE DEBATE. TEXT BELOW DOES NOT YET REFLECT CONSENSUS AND IS MERELY A PLACEHOLDER)
 
 The structure of the Board of Directors of the LLC shall be composed of up to seven people as follows:
 
@@ -253,13 +253,13 @@ It shall be the responsibility of each respective body that appointed a Director
 
 ## Initial Interim Board {#interim-board}
 
-(-02 Draft Note: Consider this a placeholder until such time as WG consensus is more apparent)
+(-03 Draft Note: Consider this a placeholder until such time as WG consensus is more apparent)
 
 It is possible that an initial interim Board may be necessary in order to legally form and bootstrap the LLC. Should this be the case, then there will be a time and scope limitation for this initial interim Board after which the First Full Board will be in place.
 
 ## First Full Board {#first-full-board}
 
-(-02 Draft Note: Consider this a placeholder until such time as WG consensus is more apparent)
+(-03 Draft Note: Consider this a placeholder until such time as WG consensus is more apparent)
 
 ## Board Positions {#board-positions}
 
