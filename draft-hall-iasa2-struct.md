@@ -232,11 +232,11 @@ The LLC Board itself, as well as the community as a whole, should take an active
 
 ## LLC Board Director Term Length {#term-length}
 
-The term length for a Director shall be three years in length. The exceptions to this guideline will be for the terms for some Directors during the first full formation of the LLC Board in order to establish staggered terms, as well as for any appointments to fill a vacancy.
+The term length for a Director shall be three years in length. The exceptions to this guideline will be for the terms for some Directors during the first full formation of the LLC Board in order to establish staggered terms and for any appointments to fill a vacancy. The final exception is if a Director role is occupied by the IETF Chair ex officio, since that person’s term length is governed instead by the term lengths established in RFC 7437, Section 3.4.
 
 ## LLC Board Director Limit {#term-limit}
 
-A director may serve no more than two consecutive terms, up to six consecutive years on the Board, with at least one full term prior to the start of any additional terms. This is to ensure a healthy regular introduction of new ideas and energy onto the Board, and to mitigate any potential long-term risk of ossification or conflict.
+A director may serve no more than two consecutive terms, with at least one full term prior to the start of any additional terms. This is to ensure a healthy regular introduction of new ideas and energy onto the Board, and to mitigate any potential long-term risk of ossification or conflict. The only exception is if a Director role is occupied by the IETF Chair ex officio, since that person’s service is governed instead by the term lengths established in RFC 7437, Section 3.4.
 
 ## LLC Board Director Removal {#director-removal}
 
