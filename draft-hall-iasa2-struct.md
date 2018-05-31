@@ -251,15 +251,25 @@ Directors may be removed with or without cause. Of the seated Directors, with th
 
 It shall be the responsibility of each respective body that appointed a Director that vacates the Board to appoint a new Director to fill tht vacancy. For example, if a Director appointed by the NomCom departs the Board prior to the end of their term for whatever reason, then it is the responsibility of the NomCom as the original appointing body to designate a replacement that will serve out the remainder of the term of the departed Director.
 
-## Initial Interim Board {#interim-board}
+## Interim Board {#interim-board}
 
-(-03 Draft Note: Consider this a placeholder until such time as WG consensus is more apparent)
+An initial interim Board will be necessary in order to legally form and bootstrap the LLC. As a result, an  interim Board will be formed on a temporary basis until the first full board is constituted.
 
-It is possible that an initial interim Board may be necessary in order to legally form and bootstrap the LLC. Should this be the case, then there will be a time and scope limitation for this initial interim Board after which the First Full Board will be in place.
+The interim Board shall be comprised of:
+
+* The current IETF chair, ex officio
+* The current ISOC chair, ex officio
+* The current IAOC chair, ex officio
+* The current IAB chair, ex officio
 
 ## First Full Board {#first-full-board}
 
-(-03 Draft Note: Consider this a placeholder until such time as WG consensus is more apparent)
+The first full board MUST be formed no later than the end of the first quarter of 2019. Accordingly, the following steps must take place to ensure that this occurs as soon as possible:
+
+* The IESG shall make their appointment no later than December 31, 2018.
+* ISOC shall make their appointment no later than December 31, 2018.
+* The NomCom shall make their appointments no later than December 31, 2018.
+* These initial LLC Board members shall make their appointment(s) before the end of March 2019.
 
 ## Board Positions {#board-positions}
 
