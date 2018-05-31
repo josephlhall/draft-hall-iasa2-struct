@@ -273,7 +273,7 @@ The first full board MUST be formed no later than the end of the first quarter o
 
 ## Board Positions {#board-positions}
 
-Following the formation of the first full LLC Board, and at each subsequent annual meeting of the LLC Board, the Directors shall elect by a majority vote of the LLC Board a Director to serve as Board Chair. The Board may also form committees of the Board and/or define other roles for LLC Board Directors as necessary. The Board may optionally appoint a Director to act as Treasurer or appoint someone else that is outside of the Board and staff. The Board may also optionally appoint a Director to act as Secretary, or may direct the Executive Director or other staff to play that role, or appoint someone else that is outside of the Board and staff.
+Following the formation of the first full LLC Board, and at each subsequent annual meeting of the LLC Board, the Directors shall elect by a majority vote of the LLC Board a Director to serve as Board Chair. The Board may also form committees of the Board and/or define other roles for LLC Board Directors as necessary. 
 
 # LLC Policies {#llc-policies}
 
