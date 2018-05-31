@@ -247,7 +247,7 @@ The limit on consecutive terms supports the healthy regular introduction of new 
 
 ## LLC Board Director Removal {#director-removal}
 
-Directors may be removed with or without cause. Of the seated Directors, with the exception of the Director subject to the vote of removal, the vote in favor of removal must be at least one fewer than unanimous. Directors may also be removed via the IETF recall process defined in {{RFC7437}}, Section 7.
+Directors may be removed with or without cause. Of the seated Directors, with the exception of the Director subject to the vote of removal, the vote in favor of removal must be no fewer than the number of Directors less two. So for example, if there are seven directors, then five votes are required. Directors may also be removed via the IETF recall process defined in {{RFC7437}}, Section 7.
 
 ## Filling a LLC Board Director Vacancy {#director-vacancy}
 
@@ -291,7 +291,7 @@ The Board shall develop a Conflict of Interest policy for the LLC. While the det
 
 ## Other Policies {#other-policies}
 
-The Board shall develop additional policies for the LLC, convering Directors, employees, and contractors, concerning issues such as:
+The Board shall develop additional policies for the LLC as necessary, convering Directors, employees, and contractors, concerning issues such as:
 
 * Acceptance of gifts and other non-cash compensation;
 
@@ -317,18 +317,18 @@ The Board shall develop additional policies for the LLC, convering Directors, em
 
 * Social media
 
+## Compliance {#compliance}
+
+The LLC shall develop and implement a compliance program to ensure its compliance with all applicable laws, rules and regulations, including without limitation laws governing bribery, anti-terrorism sanctions, export controls, data protection/privacy, as well as other applicable polcies noted in {{llc-policies}}. In addition, actions and activities of the LLC must be consistent with 501(c)(3) purposes.
+
+The LLC shall report to ISOC on the implementation of its compliance plan on an annual basis.
+
 # Board Voting {#voting}
 
 The Board can hold votes in meetings of the Board or, in some cases, via electronic means if permissable. Decisions on regular LLC matters shall be made by majority vote. Decisions on special LLC matteers, at least a 2/3 majority must vote in favor, with the exception of removal of a Director as specified in {{director-removal}}.
 
 ## Quorum {#quorum}
 At all meetings of the Board, a majority of the Directors then in office shall constitute a quorum for the transaction of business. Unless a greater affirmative vote is expressly required for an action under applicable law, the LLC guidelines, or other Board policies, the affirmative vote of a majority of the Directors present at any meeting at which a quorum is present shall be an act of the Board. Absentee voting and voting by proxy shall not be permitted. If a quorum shall not be present at any meeting of the Board, the Directors present thereat may adjourn the meeting from time to time, without notice other than announcement at the meeting, until a quorum shall be present.
-
-# Compliance {#compliance}
-
-The LLC shall develop and implement a compliance program to ensure its compliance with all applicable laws, rules and regulations, including without limitation laws governing bribery, anti-terrorism sanctions, export controls, data protection/privacy, as well as other applicable polcies noted in {{llc-policies}}. In addition, actions and activities of the LLC must be consistent with 501(c)(3) purposes.
-
-The LLC shall report to ISOC on the implementation of its compliance plan on an annual basis.
 
 # Fundraising Practices {#fundraising-practices}
 
