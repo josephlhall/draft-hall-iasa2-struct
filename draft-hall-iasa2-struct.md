@@ -325,10 +325,11 @@ The LLC shall report to ISOC on the implementation of its compliance plan on an 
 
 # Board Voting {#voting}
 
-The Board can hold votes in meetings of the Board or, in some cases, via electronic means if permissable. Decisions on regular LLC matters shall be made by majority vote. Decisions on special LLC matteers, at least a 2/3 majority must vote in favor, with the exception of removal of a Director as specified in {{director-removal}}.
+The Board can hold votes in meetings of the Board or, in some cases, via electronic means. Decisions on regular LLC matters shall be made by a 2/3 majority vote in favor, with the exception of removal of a Director as specified in {{director-removal}}. Absentee voting and voting by proxy shall not be permitted. 
 
 ## Quorum {#quorum}
-At all meetings of the Board, a majority of the Directors then in office shall constitute a quorum for the transaction of business. Unless a greater affirmative vote is expressly required for an action under applicable law, the LLC guidelines, or other Board policies, the affirmative vote of a majority of the Directors present at any meeting at which a quorum is present shall be an act of the Board. Absentee voting and voting by proxy shall not be permitted. If a quorum shall not be present at any meeting of the Board, the Directors present thereat may adjourn the meeting from time to time, without notice other than announcement at the meeting, until a quorum shall be present.
+
+At all meetings of the Board, at least 2/3 of the Directors then in office shall constitute a quorum for the transaction of business. If a quorum shall not be present at any meeting of the Board, the Directors present thereat may adjourn the meeting without notice other than announcement at the meeting, until a quorum shall be present.
 
 # Fundraising Practices {#fundraising-practices}
 
