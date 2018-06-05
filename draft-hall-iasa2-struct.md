@@ -241,6 +241,8 @@ The term length for a Director shall be three years in length. The exceptions to
 
 A director may serve no more than two consecutive terms, with at least one full term prior to the start of any additional terms. The only exception is if a Director role is occupied by the IETF Chair ex officio, since that person’s service is governed instead by the term lengths established in {{RFC7437}}, Section 3.4.
 
+The only exception to the two consecutive term rule is for an LLC-appointed Director. For such a Director, they may serve only one term via this appointment method, after which any subsequent terms would be occur via other appointment processes (such as via the NomCom process).
+
 The limit on consecutive terms supports the healthy regular introduction of new ideas and energy into the Board and mitigates potential long-term risk of ossification or conflict, without adversely impacting the potential pool of director candidates over time.
 
 ## LLC Board Director Removal {#director-removal}
