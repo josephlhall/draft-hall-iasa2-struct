@@ -128,7 +128,7 @@ The proposed responsibilities of the LLC are:
 
 * Fundraising. The LLC is responsible for raising money on behalf of the IETF.
 
-* Compliance. The LLC is responsible for establishing and enforcing polcies to ensure compliance with applicable laws, regulations, and rules.
+* Compliance. The LLC is responsible for establishing and enforcing policies to ensure compliance with applicable laws, regulations, and rules.
 
 The manner by which these responsibilities under the LLC are organized is intended to address the problems described in Sections 3.1.1., 3.1.2, and 3.1.3 of {{?I-D.haberman-iasa20dt-recs}}. Specifically, this is intended to bring greater clarity around roles, responsibilities, representation, decision-making, and authority.
 
@@ -212,7 +212,7 @@ In summary, the LLC Executive Director, with support from the team that they alo
 
 A goal of this proposed Board composition is to balance the need for the LLC to be accountable to the IETF community with the need for this Board to have the expertise necessary to oversee a small non-profit corporation. The Board is smaller than the current IAOC and the other leadership bodies of the IETF, in part to keep the Board focused on its rather limited set of strategic responsibilities as noted in {{board-responsibilities}}.
 
-This board structure, with limited strategic responsiblilities noted in {{board-responsibilities}} and limited size, together with the staff responsibilities noted in {{staff-responsibilities}}, is designed to overcome the challenges described in Section 3.1.4 of {{?I-D.haberman-iasa20dt-recs}} concerning oversight. This establishes a clear line of oversight over staff performance: the Board oversees the Executive Director's performance and has actual legal authority to remove a non-performing Executive Director. The Executive Director is responsible for the day-to-day operation of the LLC.
+This board structure, with limited strategic responsibilities noted in {{board-responsibilities}} and limited size, together with the staff responsibilities noted in {{staff-responsibilities}}, is designed to overcome the challenges described in Section 3.1.4 of {{?I-D.haberman-iasa20dt-recs}} concerning oversight. This establishes a clear line of oversight over staff performance: the Board oversees the Executive Director's performance and has actual legal authority to remove a non-performing Executive Director. The Executive Director is responsible for the day-to-day operation of the LLC.
 
 Finally, the Board would be expected to operate transparently, to further address the concern raised in Section 3.3 of {{?I-D.haberman-iasa20dt-recs}}. The default transparency rule arrived at during the IASA 2.0 design process is detailed above in in {{principles}}. The Board will need to establish how it will meet that commitment.
 
@@ -223,7 +223,7 @@ The structure of the Board of Directors of the LLC shall be composed of up to se
 
 * 4 Appointed by the IETF NomCom, confirmed by the IESG
 
-* 1 IETF Chair or delegate selected by the IESG
+* 1 IETF Chair ex officio or other person selected by the IESG
 
 * 1 Appointed by the ISOC Board of Trustees
 
@@ -245,13 +245,16 @@ The only exception to the two consecutive term rule is for an LLC-appointed Dire
 
 The limit on consecutive terms supports the healthy regular introduction of new ideas and energy into the Board and mitigates potential long-term risk of ossification or conflict, without adversely impacting the potential pool of director candidates over time.
 
+## Staggered Terms {#staggered-terms}
+ISOC, the IESG, the Nominating Committee, and the Board shall coordinate with each other to ensure that collectively their appointment processes provide for no more than three Directors’ terms concluding in the same year.
+
 ## LLC Board Director Removal {#director-removal}
 
-Directors may be removed with or without cause. Of the seated Directors, with the exception of the Director subject to the vote of removal, the vote in favor of removal must be no fewer than the number of Directors less two. So for example, if there are seven directors, then five votes are required. Directors may also be removed via the IETF recall process defined in {{RFC7437}}, Section 7.
+Directors may be removed with or without cause. A vote in favor of removal must be no fewer than the number of Directors less two. Directors may also be removed via the IETF recall process defined in {{RFC7437}}, Section 7. So for example, if there are seven directors, then five votes are required. Directors may also be removed via the IETF recall process defined in {{RFC7437}}, Section 7.
 
 ## Filling a LLC Board Director Vacancy {#director-vacancy}
 
-It shall be the responsibility of each respective body that appointed a Director that vacates the Board to appoint a new Director to fill tht vacancy. For example, if a Director appointed by the NomCom departs the Board prior to the end of their term for whatever reason, then it is the responsibility of the NomCom as the original appointing body to designate a replacement that will serve out the remainder of the term of the departed Director.
+It shall be the responsibility of each respective body that appointed a Director that vacates the Board to appoint a new Director to fill the vacancy. For example, if a Director appointed by the NomCom departs the Board prior to the end of their term for whatever reason, then it is the responsibility of the NomCom as the original appointing body to designate a replacement that will serve out the remainder of the term of the departed Director.
 
 ## Interim Board {#interim-board}
 
@@ -266,7 +269,7 @@ The interim Board shall be comprised of:
 
 ## First Full Board {#first-full-board}
 
-The first full board MUST be formed no later than the end of the first quarter of 2019. Accordingly, the following steps must take place to ensure that this occurs as soon as possible:
+A minimum of five Directors must be seated in order for the Board to be constituted, and the Interim Board to be dissolved. The first full board MUST be formed no later than the end of the first quarter of 2019. Accordingly, the following steps must take place to ensure that this occurs as soon as possible:
 
 * The IESG shall make their appointment no later than December 31, 2018.
 * ISOC shall make their appointment no later than December 31, 2018.
@@ -291,7 +294,7 @@ The Board shall develop a Conflict of Interest policy for the LLC. While the det
 
 ## Other Policies {#other-policies}
 
-The Board shall develop additional policies for the LLC as necessary, convering Directors, employees, and contractors, concerning issues such as:
+The Board shall develop additional policies for the LLC as necessary, covering Directors, employees, and contractors, concerning issues such as:
 
 * Acceptance of gifts and other non-cash compensation;
 
@@ -319,13 +322,13 @@ The Board shall develop additional policies for the LLC as necessary, convering 
 
 ## Compliance {#compliance}
 
-The LLC shall develop and implement a compliance program to ensure its compliance with all applicable laws, rules and regulations, including without limitation laws governing bribery, anti-terrorism sanctions, export controls, data protection/privacy, as well as other applicable polcies noted in {{llc-policies}}. In addition, actions and activities of the LLC must be consistent with 501(c)(3) purposes.
+The LLC shall develop and implement a compliance program to ensure its compliance with all applicable laws, rules and regulations, including without limitation laws governing bribery, anti-terrorism sanctions, export controls, data protection/privacy, as well as other applicable policies noted in {{llc-policies}}. In addition, actions and activities of the LLC must be consistent with 501(c)(3) purposes.
 
 The LLC shall report to ISOC on the implementation of its compliance plan on an annual basis.
 
 # Board Voting {#voting}
 
-The Board can hold votes in meetings of the Board or, in some cases, via electronic means. Decisions on regular LLC matters shall be made by a 2/3 majority vote in favor, with the exception of removal of a Director as specified in {{director-removal}}. Absentee voting and voting by proxy shall not be permitted. 
+The Board can hold votes during synchronous live meetings of the Board (including telephonic and video) or via asynchronous written (including electronic) means. Decisions on regular LLC matters shall be made by a 2/3 majority vote in favor, with the exception of removal of a Director as specified in {{director-removal}}. Absentee voting and voting by proxy shall not be permitted. 
 
 ## Quorum {#quorum}
 
@@ -333,7 +336,7 @@ At all meetings of the Board, at least 2/3 of the Directors then in office shall
 
 # Fundraising Practices {#fundraising-practices}
 
-When the LLC conducts fundraising, it will substantiate charitable contributions on behalf of ISOC. The LLC will evaluate and facilitate state, federal, and other applicable law and regulatory compliance for ISOC and/or the LLC with respect to such fundraising activities. In addition, the LLC shall ensure that all fundrasing activities are conducted in compliance with any polcies developed by the LLC, including but not limited to those noted in {{llc-policies}}.
+When the LLC conducts fundraising, it will substantiate charitable contributions on behalf of ISOC. The LLC will evaluate and facilitate state, federal, and other applicable law and regulatory compliance for ISOC and/or the LLC with respect to such fundraising activities. In addition, the LLC shall ensure that all fundraising activities are conducted in compliance with any policies developed by the LLC, including but not limited to those noted in {{llc-policies}}.
 
 # Transition Considerations {#transition-considerations}
 
@@ -364,7 +367,7 @@ High priority for the Interim Board:
 3 – Transfer all necessary contracts from ISOC/IAOC to the LLC
 4 – Establish & implement a process to pay any employees or contractors, as necessary
 5 - Agree to a transition schedule with the IAOC
-6 - Secure any necessary insurance to cover the LLC and/or LLC Board (e.g. general liability insurance, directors and officers insureance)
+6 - Secure any necessary insurance such as Commercial General Liability and other appropriate insurance policies, with appropriate coverage limits
 
 Medium Priority for the Interim Board:
 1 – Create a job description for the IETF Executive Director
