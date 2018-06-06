@@ -364,6 +364,7 @@ High priority for the Interim Board:
 3 – Transfer all necessary contracts from ISOC/IAOC to the LLC
 4 – Establish & implement a process to pay any employees or contractors, as necessary
 5 - Agree to a transition schedule with the IAOC
+6 - Secure any necessary insurance to cover the LLC and/or LLC Board (e.g. general liability insurance, directors and officers insureance)
 
 Medium Priority for the Interim Board:
 1 – Create a job description for the IETF Executive Director
