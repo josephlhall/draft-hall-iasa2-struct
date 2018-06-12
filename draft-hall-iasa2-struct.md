@@ -8,6 +8,7 @@ category: info
 ipr: trust200902
 area: General
 keyword: Internet-Draft
+wg: IASA2
 
 stand_alone: yes
 pi: [toc, sortrefs, symrefs]
@@ -278,7 +279,7 @@ A minimum of five Directors must be seated in order for the Board to be constitu
 
 ## Board Positions {#board-positions}
 
-Following the formation of the first full LLC Board, and at each subsequent annual meeting of the LLC Board, the Directors shall elect by a majority vote of the LLC Board a Director to serve as Board Chair. The Board may also form committees of the Board and/or define other roles for LLC Board Directors as necessary. 
+Following the formation of the first full LLC Board, and at each subsequent annual meeting of the LLC Board, the Directors shall elect by a majority vote of the LLC Board a Director to serve as Board Chair. The Board may also form committees of the Board and/or define other roles for LLC Board Directors as necessary.
 
 # LLC Policies {#llc-policies}
 
@@ -328,7 +329,7 @@ The LLC shall report to ISOC on the implementation of its compliance plan on an 
 
 # Board Voting {#voting}
 
-The Board can hold votes during synchronous live meetings of the Board (including telephonic and video) or via asynchronous written (including electronic) means. Decisions on regular LLC matters shall be made by a 2/3 majority vote in favor, with the exception of removal of a Director as specified in {{director-removal}}. Absentee voting and voting by proxy shall not be permitted. 
+The Board can hold votes during synchronous live meetings of the Board (including telephonic and video) or via asynchronous written (including electronic) means. Decisions on regular LLC matters shall be made by a 2/3 majority vote in favor, with the exception of removal of a Director as specified in {{director-removal}}. Absentee voting and voting by proxy shall not be permitted.
 
 ## Quorum {#quorum}
 
