@@ -263,19 +263,19 @@ An initial interim Board will be necessary in order to legally form and bootstra
 
 The interim Board shall be comprised of:
 
-* The current IETF chair, ex officio
-* The current ISOC chair, ex officio
-* The current IAOC chair, ex officio
-* The current IAB chair, ex officio
+* The IETF chair, ex officio
+* The IAOC chair, ex officio
+* The IAB chair, ex officio
+* 1 ISOC trustee, selected by the BoT
 
 ## First Full Board {#first-full-board}
 
-A minimum of five Directors must be seated in order for the Board to be constituted, and the Interim Board to be dissolved. The first full board MUST be formed no later than the end of the first quarter of 2019. Accordingly, the following steps must take place to ensure that this occurs as soon as possible:
+A minimum of five Directors must be seated in order for the Board to be constituted, and the Interim Board to be dissolved. Accordingly, the following steps must take place to ensure that this occurs on a timely basis:
 
-* The IESG shall make their appointment no later than December 31, 2018.
-* ISOC shall make their appointment no later than December 31, 2018.
-* The NomCom shall make their appointments no later than December 31, 2018.
-* These initial LLC Board members shall make their appointment(s) before the end of March 2019.
+* The IESG shall make their appointment no later than January 31, 2019.
+* ISOC shall make their appointment no later than January 31, 2019.
+* The NomCom shall make their appointments no later than January 31, 2019.
+* These initial LLC Board members shall make their appointment(s) before the end of June 2019.
 
 ## Board Positions {#board-positions}
 
