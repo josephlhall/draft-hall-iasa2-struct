@@ -327,13 +327,13 @@ The LLC shall develop and implement a compliance program to ensure its complianc
 
 The LLC shall report to ISOC on the implementation of its compliance plan on an annual basis.
 
+# Quorum {#quorum}
+
+At all meetings of the Board, at least 2/3 of the Directors then in office shall constitute a quorum for the transaction of business. If a quorum shall not be present at any meeting of the Board, the Directors present thereat may adjourn the meeting without notice other than announcement at the meeting, until a quorum shall be present.
+
 # Board Voting {#voting}
 
 The Board can hold votes during synchronous live meetings of the Board (including telephonic and video) or via asynchronous written (including electronic) means. Decisions on regular LLC matters shall be made by a 2/3 majority vote in favor, with the exception of removal of a Director as specified in {{director-removal}}. Absentee voting and voting by proxy shall not be permitted.
-
-## Quorum {#quorum}
-
-At all meetings of the Board, at least 2/3 of the Directors then in office shall constitute a quorum for the transaction of business. If a quorum shall not be present at any meeting of the Board, the Directors present thereat may adjourn the meeting without notice other than announcement at the meeting, until a quorum shall be present.
 
 # Fundraising Practices {#fundraising-practices}
 
