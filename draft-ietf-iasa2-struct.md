@@ -228,7 +228,7 @@ The structure of the Board of Directors of the LLC shall be composed of up to se
 
 * 1 Appointed by the ISOC Board of Trustees
 
-* 1 Appointed by the LLC Board itself, confirmed by IAB
+* 1 Appointed by the LLC Board itself, confirmed by IESG
 
 ## Recruiting LLC Board Directors {#director-recruitment}
 
