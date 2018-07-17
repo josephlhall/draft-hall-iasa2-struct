@@ -222,13 +222,13 @@ Finally, the Board would be expected to operate transparently, to further addres
 
 The structure of the Board of Directors of the LLC shall be composed of up to seven people as follows:
 
-* 4 Appointed by the IETF NomCom, confirmed by the IESG
-
-* 1 IETF Chair ex officio or other person selected by the IESG
+* 1 IETF Chair or delegate selected by the IESG
 
 * 1 Appointed by the ISOC Board of Trustees
 
-* 1 Appointed by the LLC Board itself, confirmed by IESG
+* 3 Appointed by the IETF NomCom, confirmed by the IESG
+
+* AS NEEDED, up to 2 Appointed by the LLC board itself, confirmed by the IESG
 
 ## Recruiting LLC Board Directors {#director-recruitment}
 
